@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Gold surges to record high amid tariff concerns",
+    "content": "Gold prices reached a new record high, driven by increasing concerns over President Donald Trump's tariffs. Investors are turning to gold as a safe-haven asset amid market volatility.",
+    "summary": "Gold prices reached a new record high, driven by increasing concerns over President Donald Trump's tariffs. Investors are turning to gold as a safe-haven asset amid market volatility.",
+    "context": "President Donald Trump's renewed focus on tariffs has increased fears of a global trade war, particularly with key economic partners such as China and the European Union. Trade tensions tend to disrupt global supply chains and dampen corporate confidence, leading to slower global growth. As uncertainty rises, investors often reevaluate the risk-reward profile of equities and seek out more stable, historically resilient assets.",
+    "happened": "Gold prices surged to a new record high, surpassing previous historical levels. The rally reflects strong safe-haven demand seeking shelter from market turbulence.\n\nThe move came as equity markets wobbled in response to heightened tariff concerns.",
+    "implications": "A record-high gold price suggests rising anxiety around macroeconomic and geopolitical risks.\n\nInvestors may begin rotating out of risk assets like equities and into defensives such as gold, bonds, or cash.\n\nCentral banks and policymakers could face increased pressure to respond to market instability with easing measures.",
+    "importance": "Gold is a traditional barometer of fear—when confidence wanes, gold tends to rise as it retains value during crises.\n\nThe move signals a shift in investor sentiment toward caution, often preceding broader market pullbacks. \n\nSustained high gold prices can impact everything from currency strength to inflation expectations and monetary policy."
+  },
+  {
+    "id": "2",
+    "title": "Another Market Intel Story",
+    "content": "Full content for the second story...",
+    "summary": "Summary for the second story...",
+    "context": "Context for the second story...",
+    "happened": "What happened in the second story...",
+    "implications": "Implications of the second story...",
+    "importance": "Medium",
+    "date": "2024-01-14"
+  },
+  {
+    "id": "3",
+    "title": "Third Market Intel Story",
+    "content": "Full content for the third story...",
+    "summary": "Summary for the third story...",
+    "context": "Context for the third story...",
+    "happened": "What happened in the third story...",
+    "implications": "Implications of the third story...",
+    "importance": "High",
+    "date": "2024-01-13"
+  }
+]
