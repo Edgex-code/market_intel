@@ -1,32 +1,52 @@
 [
   {
     "id": "1",
-    "title": "Global Markets Rally After U.S. Capture of Venezuela’s President",
-    "content": "Major global stock indices rallied, with the Dow Jones reaching record highs after the U.S. military captured Venezuelan President Nicolás Maduro over the weekend.",
-    "summary": "US capture of Venezuela’s president triggered a strong rally in major stock markets.",
-    "context": "• The U.S. military operation in Venezuela dominated global markets.\n\n• Energy and cyclical stocks led gains as investors priced in potential new oil output expectations.\n\n• Risk sentiment improved despite geopolitical uncertainty. ",
-    "happened": "• Dow Jones and other major equity benchmarks hit fresh records. \n\n• Energy companies like Chevron and ExxonMobil saw sharp gains. \n\n• Precious metals and Bitcoin also climbed amid market optimism. ",
-    "implications": "• Positive equity performance suggests investor confidence around geopolitical developments.\n\n• Energy sector optimism could reshape investment flows.\n\n• Safe-haven demand persists alongside risk appetite. ",
-    "importance": "• This event has become the biggest macro driver in markets this week, outweighing typical earnings/data news. \n\n• Equity rallies set the tone for the start of 2026 trading. \n\n• Geopolitical actions are now directly influencing asset allocation. "
+    "title": "US power prices spike as deep freeze hits data-centre corridor",
+    "content": "Wholesale power prices surged in PJM’s Virginia zone as Winter Storm Fern drove demand above forecasts in a region packed with energy-hungry data centres. Reuters reported real-time prices topping $1,800/MWh in Dominion Energy’s territory, highlighting how extreme weather can rapidly reprice power and gas constraints risk spilling into broader energy markets.",
+    "summary": "A US cold blast triggered a sharp spike in wholesale power prices, underscoring grid stress and energy-supply sensitivity.",
+    "context": "• US electricity demand growth has been accelerated by data-centre build-outs linked to AI and cloud workloads.\n\n• Winter weather can tighten power markets quickly when fuel supply (especially natural gas) and transmission become constrained.\n\n• Grid operators have been focused on winter reliability since recent cold-weather stress events and record demand prints.",
+    "happened": "• Reuters said real-time wholesale power prices topped $1,800/MWh in Dominion Energy’s Virginia territory, up from about $200/MWh the prior morning.\n\n• PJM data showed demand around 5% above the original forecast in Dominion’s zone as the storm spread.\n\n• PJM projected a potential winter demand record of 147.2 GW on Tuesday versus the prior record of 143.7 GW (January 2025).",
+    "implications": "• Elevated spot power prices can pressure utilities and power retailers if hedges are insufficient.\n\n• Weather-driven price spikes can feed into natural gas demand and basis volatility where pipeline constraints bite.\n\n• The episode reinforces investor focus on grid capex, reliability upgrades, and the cost of serving data-centre load growth.",
+    "importance": "• Power is increasingly a tradable macro input for AI-era growth themes and infrastructure bottlenecks.\n\n• Extreme-weather stress tests can shift expectations for utility earnings, regulatory scrutiny, and capacity pricing.\n\n• Volatility in power and gas markets can ripple into inflation sensitivity and broader risk sentiment when disruptions widen."
   },
   {
     "id": "2",
-    "title": "Oil Stocks Surge as U.S. Vows to Unlock Venezuelan Reserves",
-    "content": "US energy stocks rallied sharply after President Trump pledged to revive Venezuela’s oil production, with Chevron and Halliburton among the biggest gainers.",
-    "summary": "Energy sector stocks jumped as U.S. policy signalled renewed Venezuelan oil ambitions.",
-    "context": "• Venezuela holds the world’s largest oil reserves but currently produces a small share of global supply. \n\n• Markets reacted to political developments and potential access to new energy sources. \n\n• Energy stocks are sensitive to geopolitical shifts. ",
-    "happened": "• U.S. energy equities outperformed broad market averages. \n\n• Brent and WTI crude prices rose modestly following the announcement. \n\n• Long-duration energy projects drew renewed interest. ",
-    "implications": "• A revival of Venezuelan oil could shape mid-term supply balances. \n\n• Energy sector capital expenditure expectations may rise.\n\n• Geopolitical stability remains uncertain. ",
-    "importance": "• Energy markets are key price anchors for inflation and currency movements.\n\n• Shifts in Venezuelan output policy could affect global crude dynamics. "
+    "title": "Venezuela sends first direct crude cargo to US under new supply deal",
+    "content": "A Trafigura-chartered tanker departed Venezuela for Louisiana’s LOOP, the first direct shipment to a US port under a 50-million-barrel supply deal agreed this month between Caracas and Washington, Reuters reported. The move signals a shift in sanctioned-oil flows and could affect heavy-sour crude availability and regional refinery economics.",
+    "summary": "A first direct Venezuela-to-US crude cargo under a new deal highlights changing sanctioned supply routes and heavy crude dynamics.",
+    "context": "• US refinery demand for heavy crude makes Venezuelan grades strategically relevant for Gulf Coast runs.\n\n• Sanctions/licensing decisions can quickly redirect barrels and reshape crude differentials and freight patterns.\n\n• Venezuela has been drawing down accumulated storage as exports restart under new permissions.",
+    "happened": "• Reuters reported the Liberia-flagged Gloria Maris left Venezuela’s Jose port carrying about 1 million barrels of Merey heavy crude bound for Louisiana’s LOOP.\n\n• Vitol and Trafigura received the first US licences to load and export Venezuelan oil as part of the deal, Reuters said.\n\n• Reuters cited shipping data showing 10–11 million barrels shipped so far under the arrangement and noted preparations to begin exporting fuel oil as well.",
+    "implications": "• More direct flows to the US could tighten or loosen heavy crude spreads depending on volumes and competing sources.\n\n• Shifts in freight routes (Caribbean storage versus direct delivery) can change tanker demand and time spreads.\n\n• The sustainability of these flows hinges on policy stability and operational constraints, including storage drawdowns and production decisions.",
+    "importance": "• Heavy crude supply is a key driver of Gulf Coast refinery margins and product crack spreads.\n\n• Policy-driven supply changes can move crude benchmarks, differentials, and energy equities.\n\n• The story matters for traders positioned in heavy-sour grades, refined products, and energy shipping."
   },
   {
     "id": "3",
-    "title": "Safe-Haven Metals Rally on Venezuelan Uncertainty",
-    "content": "Gold and silver prices climbed sharply as investors shifted to safe-haven assets amidst geopolitical noise from Venezuela.",
-    "summary": "Precious metals rallied as markets sought protection amid geopolitical events.",
-    "context": "• Gold is traditionally a hedge against uncertainty and market stress. \n\n• Recent political developments in Venezuela have increased risk perceptions. \n\n• Investors are balancing risk assets with safe havens. ",
-    "happened": "• Gold neared multi-year highs. \n\n• Silver experienced stronger percentage gains than gold. \n\n• Demand for hedge instruments increased. ",
-    "implications": "• Persistent safe-haven demand signals lingering market unease. \n\n• Central banks’ policy paths may adjust if volatility persists. \n\n• Inflation expectations could recalibrate with metals movements. ",
-    "importance": "• Metals often foreshadow broader risk sentiment changes. \n\n• A sustained rally in gold and silver can influence currency and futures markets. "
+    "title": "FX markets brace for possible yen intervention after sharp spike",
+    "content": "Markets opened the week on intervention watch after the yen’s sharp rise on Friday and Japanese PM Sanae Takaichi’s pledge to act against “very abnormal” moves, Reuters reported. Thin liquidity early in Asia could amplify swings, keeping USD/JPY and broader risk sentiment sensitive to headlines.",
+    "summary": "Intervention risk is back in focus for USD/JPY after a sharp yen move and official warnings.",
+    "context": "• The yen has been under sustained depreciation pressure, raising political sensitivity around import costs and inflation.\n\n• Intervention episodes tend to create asymmetric risk for short-yen positions, especially in thin liquidity.\n\n• Markets track “rate checks” and official rhetoric as potential precursors to actual yen-buying.",
+    "happened": "• Reuters said the yen ended Friday with its sharpest rise in nearly six months at 155.73 per dollar after sliding towards 160.\n\n• A Reuters source said the New York Fed carried out rate checks, which traders often treat as a prelude to intervention.\n\n• Reuters noted Takaichi said the government would take necessary steps against speculative or very abnormal market moves.",
+    "implications": "• Elevated intervention risk can compress USD/JPY upside and increase short-dated FX volatility.\n\n• A credible threat of coordinated action could spill into broader Asian FX positioning and hedging behaviour.\n\n• Repeated volatility may influence expectations for Japan’s policy mix and the signalling around stability versus competitiveness.",
+    "importance": "• USD/JPY is a core macro barometer, influencing global risk appetite and rates/FX correlations.\n\n• Intervention shocks can cause abrupt cross-asset repricing, including equities and bonds.\n\n• Traders need to manage gap risk around liquidity troughs and headline-driven moves."
+  },
+  {
+    "id": "4",
+    "title": "Saudi equities climb as market prepares to open to all foreign investors",
+    "content": "Saudi Arabia’s benchmark index rose as investors positioned for fourth-quarter earnings and ahead of a February 1 rule change opening the market to all categories of foreign investors, Reuters reported. The prospect of broader access could lift inflow expectations and affect regional EM equity allocations.",
+    "summary": "Saudi stocks gained on earnings optimism and anticipation of a wider foreign-investor opening from 1 February.",
+    "context": "• Regulatory liberalisation is a key catalyst for EM equity inflows and benchmark inclusion dynamics.\n\n• Gulf equity performance often co-moves with oil, bank earnings expectations, and geopolitical risk premia.\n\n• Foreign access changes can alter liquidity, valuation multiples, and sector leadership in domestic markets.",
+    "happened": "• Reuters said Saudi’s benchmark index gained 1.2%, led by a 1.8% rise in Al Rajhi Bank.\n\n• Reuters reported the capital market will open to all foreign investors from February 1, easing rules to attract more overseas capital.\n\n• Reuters noted sentiment was also supported by expectations of upcoming earnings and a recent rebound in oil prices.",
+    "implications": "• Broader foreign participation could increase turnover and deepen liquidity, potentially lowering the local risk premium.\n\n• Portfolio reallocations may favour large-cap banks and liquid names likely to attract international flows.\n\n• Regional markets may see relative-valuation repricing as investors compare access, governance and earnings momentum.",
+    "importance": "• Market-access reforms can be a structural driver of sustained inflows rather than a one-off trading catalyst.\n\n• Saudi equities are a major EM allocation point, so rule changes can influence regional benchmarks and passive flows.\n\n• The story links oil, banks, and geopolitics—three of the biggest drivers of Gulf asset pricing."
+  },
+  {
+    "id": "5",
+    "title": "Airbus CEO flags fresh geopolitical and trade risks after 2025 ‘damage’",
+    "content": "Airbus CEO Guillaume Faury warned staff the company must adapt to unsettling geopolitical risks after “significant” logistical and financial damage from US protectionism and US–China trade tensions, Reuters reported. The memo underscores how tariff and export-control shocks can hit global industrial supply chains and European aerospace equities.",
+    "summary": "Airbus highlighted trade and geopolitical risk as a continuing operational and financial overhang for aerospace supply chains.",
+    "context": "• Aerospace relies on complex cross-border supply chains, making it sensitive to tariffs, export controls and logistics constraints.\n\n• US–China trade frictions have created recurring risks around components, materials, and certification timelines.\n\n• European defence and aerospace names have been in focus amid shifting security priorities and procurement cycles.",
+    "happened": "• Reuters reported Faury said trade pressures caused “significant collateral damage, logistically and financially,” citing US protectionism and US–China tensions.\n\n• Reuters noted aerospace won a partial reprieve from US tariffs and that Airbus publishes results on 19 February.\n\n• Reuters said the memo referenced disruptions tied to trade moves last year, including tariffs and subsequent constraints affecting key inputs and components.",
+    "implications": "• Persistent trade uncertainty can raise costs, lengthen delivery schedules, and increase working-capital needs.\n\n• Investors may demand a higher risk premium for globally integrated manufacturers exposed to policy shocks.\n\n• Ongoing geopolitical volatility can support defence demand but simultaneously complicate commercial aerospace logistics and sourcing.",
+    "importance": "• Airbus is a bellwether European industrial; supply-chain or policy shocks can ripple across suppliers and indices.\n\n• Trade policy is re-emerging as a market variable, affecting margins, capex, and earnings visibility.\n\n• The story matters for positioning in European cyclicals, defence/aerospace, and cross-border supply-chain beneficiaries."
   }
 ]
