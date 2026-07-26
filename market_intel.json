@@ -1,122 +1,151 @@
 [
   {
     "id": "1",
-    "title": "Chip Stocks Tumble Into a Bear Market as China's Kimi K3 Sparks a Fresh 'DeepSeek Moment'",
-    "content": "Semiconductor shares slumped on Friday after Chinese start-up Moonshot unveiled Kimi K3, a 2.8-trillion-parameter open-weight model that reportedly rivals the best US systems, reviving fears that cheaper Chinese AI could undercut the West's data-centre spending boom. The Philadelphia Semiconductor Index fell as much as 5.7% on the day and has now dropped more than 20% from its late-June record, tipping the benchmark into a bear market and dragging the Nasdaq down 1.5%.",
-    "summary": "A new Chinese AI model rattled the AI-hardware trade, pushing the Philadelphia Semiconductor Index more than 20% below its June peak and into a bear market.",
-    "context": "• Chip valuations had priced in near-perfect, uninterrupted AI demand after a blistering 2026 rally, leaving little cushion for disappointment in a historically cyclical industry.\n\n• Traders drew immediate parallels with early-2025's 'DeepSeek moment', when a low-cost Chinese model briefly wiped hundreds of billions from AI names.\n\n• Taiwan Semiconductor Manufacturing had already unsettled the sector this week by guiding to higher-than-expected capital spending, partly on rising tool prices.",
-    "happened": "• Moonshot's Kimi K3, billed as the largest open-weight model yet at 2.8 trillion parameters, was reported to match or beat several leading US models on benchmarks, trailing only the top US frontier systems.\n\n• The Philadelphia Semiconductor Index fell as much as 5.7% and closed the week more than 20% below its late-June high, with global chip stocks shedding roughly $3.3tn in value since 22 June.\n\n• Applied Materials, Lam Research, Intel, KLA and Arm each fell about 4%, Nvidia and Micron dropped more than 2%, and the Nasdaq lost 1.5% on Friday to end the week down 2.9%.",
-    "implications": "• A sustained rethink of AI capital expenditure would hit the entire chip supply chain, from foundries and memory makers to equipment vendors and power suppliers.\n\n• Cheaper, capable open-weight models could compress the pricing premium on cutting-edge accelerators and pressure hyperscaler margins.\n\n• Expect heightened volatility around forthcoming Big Tech capex guidance, which the market will now scrutinise for any sign of restraint.",
-    "importance": "• Semiconductors have been the single biggest driver of the 2026 equity rally, so a bear market in the group is a systemic risk to index returns.\n\n• The episode tests the core bull thesis that AI demand is structural rather than cyclical.\n\n• A credible low-cost Chinese challenger reshapes the competitive map for US chip and software leaders alike.",
-    "date": "17 July 2026",
-    "tags": ["us-equities", "stocks"]
+    "title": "Trump Slaps 12.5% Tariff on 60 Economies as Global Trade War Reignites",
+    "content": "The White House replaced its expiring 10% blanket levy with a new 12.5% tariff covering roughly 60 of America's largest trading partners and 99.4% of US imports, with the duties taking effect at one minute past midnight on 24 July. Rooted in Section 301 forced-labour investigations and hitting China, Vietnam, Brazil and Australia alike, the move rekindled trade-war fears, pressured risk assets worldwide and stoked inflation worries just as central banks turned more hawkish.",
+    "summary": "A new 12.5% US tariff on 60 economies covering 99.4% of imports took effect on 24 July, reigniting global trade tensions.",
+    "context": "• The order supersedes the 10% 'global tariff' regime that was due to lapse at midnight, ratcheting the headline rate higher rather than letting it expire.\n\n• The duties stem from Section 301 probes launched in March into whether 60 economies adequately enforce bans on goods made with forced labour.\n\n• The escalation lands amid an already jittery market backdrop of resurgent inflation, higher oil prices and rising bond yields.",
+    "happened": "• Washington confirmed a 12.5% rate on 60 of its top trade partners, spanning China, Vietnam, Brazil, Thailand, South Africa and Australia, effective 12:01am US Eastern on 24 July.\n\n• The trade office said the order covers 99.4% of US imports, a near-universal reach that leaves few supply chains untouched.\n\n• Asian equities bore the brunt, with the Shanghai Composite down 1.61% and Japan's Nikkei 225 off 2.73% on the day as exporters slid.",
+    "implications": "• Higher import costs feed directly into US consumer prices, complicating the Federal Reserve's fight against sticky inflation ahead of its 28–29 July meeting.\n\n• Trading partners may retaliate, raising the risk of tit-for-tat measures that would weigh on global growth and corporate margins.\n\n• Import-heavy sectors — retail, autos and industrials — face fresh cost pressure and supply-chain reshuffling.",
+    "importance": "• Tariffs on 99.4% of imports represent one of the broadest US trade actions in decades, with macro consequences for inflation and rates.\n\n• The move injects a fresh, hard-to-hedge policy risk into an already fragile market narrative.\n\n• It sharpens the stagflation debate: higher prices alongside a potential drag on trade-dependent growth.",
+    "date": "24 July 2026",
+    "tags": [
+      "us-equities",
+      "asian-markets",
+      "stocks"
+    ]
   },
   {
     "id": "2",
-    "title": "Apple Briefly Retakes Most-Valuable Crown From Nvidia as AI Rotation Bites",
-    "content": "Apple momentarily overtook Nvidia as the world's most valuable company on Friday, its market capitalisation touching about $4.88tn against Nvidia's roughly $4.86tn after the AI bellwether slid around 3.5% in the chip sell-off. The positions later flipped back, with Nvidia edging ahead by the close, but the tussle underscored a broadening rotation out of heavy AI spenders and towards Apple's lighter capital-expenditure model.",
-    "summary": "Apple briefly leapfrogged Nvidia to become the world's largest company as investors rotated away from capital-intensive AI names.",
-    "context": "• Nvidia had held the title of world's most valuable company since June 2025, when it overtook Microsoft on surging AI-accelerator demand.\n\n• Apple has climbed almost 23% in 2026, outpacing the market as investors reward its services growth and comparatively modest AI outlays.\n\n• The move fits a wider late-cycle rotation as markets question the durability of the AI capital-spending boom.",
-    "happened": "• Apple's market value briefly reached about $4.88tn versus Nvidia's roughly $4.86tn during Friday's session before the ranking reversed by the close.\n\n• Nvidia fell around 3.5% as the Chinese-AI scare and profit-taking hit the semiconductor complex.\n\n• The swing came on a broadly negative day for megacap tech, with the S&P 500 down 1% and the Nasdaq off 1.5%.",
-    "implications": "• Leadership rotating from chipmakers to cash-generative, lower-capex megacaps could reshape index composition and factor performance.\n\n• Continued scrutiny of AI returns on investment may keep the most capital-hungry names under pressure.\n\n• A crowded, top-heavy market means small shifts among the largest stocks carry outsized index effects.",
-    "importance": "• The identity of the world's largest company is a barometer for which narrative — AI infrastructure or platform profitability — the market is rewarding.\n\n• Concentration risk is acute, with a handful of names driving the bulk of index returns.\n\n• The rotation offers a tell on how investors are repositioning for a possible AI-spending slowdown.",
-    "date": "17 July 2026",
-    "tags": ["us-equities", "stocks"]
+    "title": "Wall Street Ends Bruising Week as AI-Spending Fears Sink the Nasdaq",
+    "content": "US stocks limped to the end of a rough week, with the Nasdaq Composite closing Friday down 0.64% at 24,975.82 as investors recoiled from ballooning AI capital-expenditure plans, even as the Dow Jones Industrial Average rose 0.46% to 51,947.25 and the S&P 500 finished virtually flat at 7,411.98. A rotation out of megacap technology towards more defensive corners of the market gathered pace ahead of next week's Federal Reserve decision.",
+    "summary": "The Nasdaq fell again on Friday on AI capex fears while the Dow advanced, capping a volatile week for US equities before the Fed meeting.",
+    "context": "• Megacap technology has powered the 2026 rally, leaving indices heavily exposed to any wobble in the AI-investment thesis.\n\n• Blowout capital-spending guidance from Alphabet and a profit miss at Tesla reset expectations for how much cash Big Tech will pour into infrastructure.\n\n• Investors are positioning cautiously into the Federal Reserve's 28–29 July meeting amid firmer inflation and higher oil prices.",
+    "happened": "• The Nasdaq slid 0.64% on Friday to 24,975.82, extending a week in which it dropped more than 2% on Thursday alone.\n\n• The Dow rose 235.60 points, or 0.46%, to 51,947.25, while the S&P 500 edged up 0.05% to 7,411.98 as gains outside tech offset chip weakness.\n\n• Money rotated towards cyclicals and defensives as traders trimmed exposure to the most capital-intensive AI names.",
+    "implications": "• Leadership broadening beyond a handful of tech giants could reshape index returns and factor performance in the second half.\n\n• Further scrutiny of AI returns on investment is likely to keep the biggest spenders volatile through the reporting season.\n\n• A hawkish Fed surprise next week would add another headwind to richly valued growth stocks.",
+    "importance": "• Index concentration means shifts among a few megacaps drive outsized moves in benchmark returns.\n\n• The week tested the market's core assumption that AI spending will translate cleanly into profits.\n\n• The tech-versus-cyclicals rotation is a key tell on how investors are positioning for tighter policy.",
+    "date": "24 July 2026",
+    "tags": [
+      "us-equities",
+      "stocks"
+    ]
   },
   {
     "id": "3",
-    "title": "Oil Surges More Than 10% on the Week as US-Iran Clashes Threaten Hormuz",
-    "content": "Crude climbed to one-month highs on Friday, with Brent trading above $80 and around $86 a barrel, capping a weekly gain of more than 10% as renewed fighting between US and Iranian forces revived fears of a blockade of the Strait of Hormuz. The rally has reignited inflation worries just as cooling June price data had begun to soothe markets, lifting bets on a Federal Reserve rate rise later this year.",
-    "summary": "Brent rose above $80 and towards $86 a barrel, up more than 10% on the week, as US-Iran hostilities threatened Gulf supply.",
-    "context": "• The Strait of Hormuz carries roughly a fifth of the world's seaborne oil, leaving prices acutely sensitive to any threat to Gulf shipping.\n\n• A fragile US-Iran ceasefire had begun to reopen the waterway before this week's escalation reversed much of that relief.\n\n• The spike lands just after a soft June inflation print, complicating the disinflation narrative that markets had started to embrace.",
-    "happened": "• Brent traded above $80 and near $86 a barrel on Friday, returning to one-month highs and leaving crude up more than 10% over the week.\n\n• Renewed US-Iran clashes and fears of a Hormuz blockade drove the advance, adding a fresh geopolitical risk premium.\n\n• The oil shock pushed some gauges of September Fed rate-hike odds sharply higher, reviving the inflation debate.",
-    "implications": "• A sustained crude spike would feed straight into headline inflation and stiffen central banks' resolve to keep policy tight.\n\n• Any move to disrupt Hormuz traffic in earnest would risk a far larger supply shock than currently priced.\n\n• Diplomacy remains the swing factor, leaving prices hostage to headlines from the Gulf.",
-    "importance": "• Oil is the principal channel through which Middle East geopolitics transmits into global inflation and rate expectations.\n\n• A renewed energy shock directly complicates the Fed's policy calculus into the autumn.\n\n• Crude swings ripple across equity sectors, credit spreads and emerging-market currencies.",
-    "date": "17 July 2026",
-    "tags": ["commodities", "futures"]
+    "title": "10-Year Treasury Yield Hits 4.70%, Highest Since Early 2025, on Hike Bets",
+    "content": "The US 10-year Treasury yield climbed to 4.70%, its highest since January 2025, as surging energy prices and resilient labour data pushed investors to price in a firmer Federal Reserve rather than the rate cuts anticipated earlier in the year. With the FOMC meeting on 28–29 July, futures now imply meaningful odds of a hike later in 2026, a sharp repricing that rippled across bonds, equities and the dollar.",
+    "summary": "Benchmark 10-year Treasury yields rose to a roughly 18-month high of 4.70% as markets priced in a more hawkish Fed.",
+    "context": "• The bond market had spent early 2026 betting on rate cuts, but sticky inflation and firmer data have forced a hawkish rethink.\n\n• A renewed spike in oil prices tied to Middle East tensions has revived headline-inflation risk.\n\n• The Fed's 28–29 July meeting is expected to hold rates while keeping the option to tighten firmly on the table.",
+    "happened": "• The 10-year yield reached 4.70%, its highest level since January 2025, up from around 4.49% earlier in the month.\n\n• Futures priced roughly a one-in-three chance of a hike at the July meeting and a majority chance of higher rates by the autumn.\n\n• Rising yields pressured rate-sensitive equities and drew flows away from risk assets, including crypto.",
+    "implications": "• Higher yields lift borrowing costs across mortgages, corporate credit and government funding, tightening financial conditions.\n\n• A sustained move above 4.7% would challenge equity valuations that assumed an easing cycle.\n\n• Bond investors face further duration pain if the hawkish repricing continues into the meeting.",
+    "importance": "• Treasury yields are the anchor for global asset pricing, so the shift reverberates far beyond the bond market.\n\n• The move marks a decisive break from the rate-cut narrative that dominated the first half of 2026.\n\n• How the Fed frames the inflation-versus-growth trade-off next week is now pivotal for every asset class.",
+    "date": "24 July 2026",
+    "tags": [
+      "fixed-income",
+      "bonds"
+    ]
   },
   {
     "id": "4",
-    "title": "European Shares End Flat as US Tech Rout Offsets a Broadening Rally",
-    "content": "The pan-European STOXX 600 slipped 0.34% to 641.53 on Friday but held roughly flat for the week, as a global sell-off in technology shares offset a rally that has been broadening into defensives. Chip-exposed names led the declines, with ASML down 3.9%, Infineon off 4.8% and STMicroelectronics falling 5.8%, while utilities and consumer staples such as Vodafone and National Grid provided ballast ahead of next week's European Central Bank meeting.",
-    "summary": "The STOXX 600 finished roughly flat on the week as a US-led tech rout was cushioned by gains in defensive sectors before the ECB meeting.",
-    "context": "• A softer-than-expected June inflation reading has cooled the case for further ECB tightening, even as oil's rebound clouds the outlook.\n\n• Banks including UBS and Deutsche Bank lifted their STOXX 600 targets this week, citing a rally that is spreading beyond technology.\n\n• Europe's chipmakers are heavily tied to the same AI-spending narrative now under pressure in the United States.",
-    "happened": "• The STOXX 600 eased 0.34% to 641.53 on Friday; the Euro Stoxx 50 closed up 0.25% at 6,281, the FTSE 100 rose 0.54% to 10,572, the DAX fell 0.53% to 24,866 and the CAC 40 was little changed at 8,378.\n\n• Semiconductor names ASML, Infineon and STMicroelectronics were among the biggest fallers, tracking the US chip slump.\n\n• Defensives outperformed, with Vodafone up 3.0% and National Grid up 2.2%, as investors sought shelter.",
-    "implications": "• Next week's ECB decision and guidance will set the near-term tone for European rates and equities.\n\n• A rotation into utilities and staples signals more cautious positioning even as headline indices hold up.\n\n• Renewed energy-price pressure could revive core-inflation worries and delay any further easing.",
-    "importance": "• European equities are testing whether a broadening rally can withstand a US-led tech drawdown.\n\n• The ECB meeting is a key catalyst for euro-zone bonds, the single currency and rate-sensitive sectors.\n\n• Europe's chip exposure links its benchmarks directly to the global AI-hardware debate.",
-    "date": "17 July 2026",
-    "tags": ["european-markets", "stocks"]
+    "title": "Yen Sinks to Four-Decade Low Near 164 as Rate Gap Widens",
+    "content": "The Japanese yen slid to around 163.8 per dollar, its weakest level in roughly four decades, as widening interest-rate differentials and a broadly firm dollar overwhelmed expectations of faster Bank of Japan tightening and the threat of official intervention. The relentless slide keeps markets on alert for Tokyo to step in, while a cheaper yen flatters Japanese exporters even as it stokes imported inflation.",
+    "summary": "The yen fell to a four-decade low near 163.8 per dollar as rate differentials and a firm dollar pressured the currency.",
+    "context": "• The yen has been the standout G10 loser, weakening more than 10% over the past year on Japan's still-low relative rates.\n\n• A rising US yield backdrop has widened the dollar-yen rate gap, encouraging carry-trade flows out of the yen.\n\n• Japanese officials have repeatedly warned against 'excessive' moves, keeping intervention risk elevated.",
+    "happened": "• USD/JPY rose to about 163.78 on 24 July, the yen's weakest reading in around 40 years.\n\n• The move came despite market expectations of further BOJ rate rises and speculation about currency intervention.\n\n• The euro, by contrast, held near $1.14, leaving the dollar broadly firm but not uniformly dominant.",
+    "implications": "• A weaker yen boosts the earnings of Japan's big exporters but raises the cost of energy and food imports.\n\n• Persistent weakness increases the odds of BOJ tightening or direct intervention, either of which could jolt global carry trades.\n\n• Sudden reversals in the yen have historically spilled into wider risk assets via unwinding leverage.",
+    "importance": "• The yen is a core funding currency, so its trajectory affects global liquidity and cross-asset positioning.\n\n• A four-decade low is a milestone that raises the stakes for Japanese policymakers.\n\n• Currency moves of this scale reshape competitiveness, trade balances and inflation across the region.",
+    "date": "24 July 2026",
+    "tags": [
+      "forex"
+    ]
   },
   {
     "id": "5",
-    "title": "Treasury Yields Ease as Data Signals the Economy Is Weathering the Iran Shock",
-    "content": "US Treasury yields drifted lower on Friday, with the 10-year note at about 4.53% and the two-year near 4.12%, as a run of data suggested the economy is absorbing the inflationary jolt from the Iran conflict without buckling. The move capped a choppy week in rates, with markets weighing cooling June inflation against an oil-driven pickup in price risks and the Federal Reserve's shift to pure data dependence.",
-    "summary": "The 10-year Treasury yield eased to around 4.53% as resilient data reassured markets the economy is withstanding the oil-price shock.",
-    "context": "• Under Chair Kevin Warsh the Fed has held its policy rate at 3.50%-3.75% and dropped traditional forward guidance in favour of pure data dependence.\n\n• A soft June inflation print pulled the annual rate down to 3.5%, tempering near-term tightening bets.\n\n• The rebound in oil prices has reintroduced upside inflation risk, keeping the rates outlook finely balanced.",
-    "happened": "• The 10-year yield slipped to about 4.53% and the two-year to roughly 4.12% on Friday as data pointed to a resilient economy.\n\n• The move reversed part of an earlier back-up in yields tied to the crude spike and firmer hike expectations.\n\n• Markets have largely ruled out a July move while remaining split on the odds of a September hike.",
-    "implications": "• With guidance stripped away, every inflation and labour print now carries outsized weight for the rates path.\n\n• A durable oil-price spike could reignite the sell-off in bonds and push yields back up.\n\n• The tug-of-war between cooling core inflation and energy-led risk will define positioning into the late-July Fed meeting.",
-    "importance": "• Treasury yields are the anchor for global borrowing costs and the discount rate on risk assets.\n\n• The data-dependence regime raises the market impact of each macro release.\n\n• Rate moves of this kind feed directly into equities, credit and the dollar.",
-    "date": "17 July 2026",
-    "tags": ["fixed-income", "bonds"]
+    "title": "Oil Whipsaws as Red Sea Attacks and Peace Talks Pull Brent Below $98",
+    "content": "Crude prices swung sharply as Houthi attacks on Saudi tankers and a suspension of Caspian Pipeline Consortium loadings collided with reports of fresh US-Iran peace talks, leaving Brent to fall roughly 4% on Friday to settle near $97 a barrel after flirting with $100 earlier in the week. The volatility underscored how tightly energy markets — and the inflation outlook — are now tethered to Middle East headlines.",
+    "summary": "Brent slid about 4% to near $97 on Friday as US-Iran peace-talk reports offset supply threats from Red Sea tanker attacks.",
+    "context": "• Middle East tensions have injected a hefty geopolitical risk premium into crude in recent weeks.\n\n• Houthi strikes on Saudi tankers and a halt to Caspian Pipeline Consortium loadings threatened a meaningful slice of regional supply.\n\n• The oil spike had complicated the disinflation story just as data had begun to cool.",
+    "happened": "• Brent fell about 4% on Friday to settle near $97 a barrel after trading close to $100 earlier in the week.\n\n• Attacks by Iran-backed Houthi forces on Saudi tankers and a CPC loading suspension disrupted regional flows, briefly lifting prices.\n\n• Reports of US-Iran peace talks then drained some of the risk premium, sending crude lower into the weekend.",
+    "implications": "• A sustained crude spike would feed straight into headline inflation and stiffen central banks' resolve to stay tight.\n\n• Any serious disruption to Gulf or Red Sea shipping risks a far larger supply shock than currently priced.\n\n• Diplomacy remains the swing factor, leaving prices hostage to Middle East headlines.",
+    "importance": "• Oil is the main channel through which regional geopolitics transmits into global inflation and rate expectations.\n\n• Renewed energy volatility directly complicates the Fed's policy calculus into the autumn.\n\n• Crude swings ripple across equity sectors, credit spreads and emerging-market currencies.",
+    "date": "24 July 2026",
+    "tags": [
+      "commodities",
+      "futures"
+    ]
   },
   {
     "id": "6",
-    "title": "Dollar Set for Weekly Loss as Softer Inflation Pares Fed Hike Bets",
-    "content": "The dollar steadied around 100.7 on the dollar index on Friday but was on course for a weekly decline, after cooler-than-expected US inflation prompted traders to trim expectations for near-term Federal Reserve rate rises. The euro held near $1.14 and the yen stayed soft, leaving the greenback caught between fading tightening bets and bouts of safe-haven demand from the Middle East conflict.",
-    "summary": "The dollar index steadied near 100.7 but headed for a weekly loss as softer inflation reduced near-term Fed hike expectations.",
-    "context": "• June inflation cooled more than forecast, undercutting the case for imminent Fed tightening and weighing on the dollar.\n\n• The Fed has held rates at 3.50%-3.75% and now leans purely on incoming data, amplifying the currency's sensitivity to each print.\n\n• Escalating US-Iran tensions have periodically revived haven demand, partly offsetting the softer-rates drag.",
-    "happened": "• The dollar index hovered around 100.7 on Friday but remained on track for a weekly fall as hike bets were pared.\n\n• The euro traded near $1.14, holding recent ranges, while the yen stayed weak.\n\n• The currency's path reflected a tug-of-war between fading tightening expectations and intermittent geopolitical haven flows.",
-    "implications": "• A softer dollar eases global financial conditions and offers relief to emerging-market borrowers and commodity importers.\n\n• Any fresh Middle East escalation could quickly restore haven demand and reverse the move.\n\n• With rate expectations finely poised, each data release now carries heightened currency risk.",
-    "importance": "• The dollar is the market's cleanest cross-asset read on shifting Fed expectations and global risk appetite.\n\n• Currency swings ripple through dollar-priced commodities and cross-border capital flows.\n\n• The balance between haven demand and rate bets frames positioning into the late-July Fed meeting.",
-    "date": "17 July 2026",
-    "tags": ["forex"]
+    "title": "Bitcoin Slips Toward $65,000 as Rising Yields Drain Crypto Flows",
+    "content": "Bitcoin eased to around $65,000 and ether fell to roughly $1,877 as higher US Treasury yields and fresh tariff-driven inflation fears lured institutional money away from risk assets, with spot bitcoin ETFs bleeding about $225m of net outflows on Thursday. Traders are also watching Washington, where the Senate faces pressure to advance the CLARITY Act, a crypto market-structure bill.",
+    "summary": "Bitcoin drifted to about $65,000 and ether to roughly $1,877 as rising yields and ETF outflows pressured digital assets.",
+    "context": "• Crypto has increasingly traded as a high-beta risk asset, sensitive to moves in real yields and liquidity.\n\n• Higher oil prices and new tariffs have pushed inflation expectations and Treasury yields higher, sapping appetite for speculative assets.\n\n• US regulatory clarity remains a swing factor, with the CLARITY Act market-structure bill stalled in the Senate.",
+    "happened": "• Bitcoin opened Friday around $65,048, about 1.6% lower on the day, while ether slid roughly 2.9% to near $1,877.\n\n• Spot bitcoin ETFs recorded about $225m of net outflows on Thursday as institutions trimmed exposure.\n\n• Prices steadied late in the week even as Brent's climb toward $100 kept macro pressure on risk assets.",
+    "implications": "• Continued yield strength could keep a lid on crypto as safer income alternatives look more attractive.\n\n• Sustained ETF outflows would signal waning institutional conviction and add to downside pressure.\n\n• Passage of the CLARITY Act could reset sentiment by clarifying US market structure and oversight.",
+    "importance": "• Crypto's tight correlation with macro liquidity makes it a useful barometer of risk appetite.\n\n• ETF flows now materially influence spot prices, linking crypto to mainstream portfolio positioning.\n\n• Regulatory progress in Washington could unlock or deter the next wave of institutional participation.",
+    "date": "24 July 2026",
+    "tags": [
+      "crypto"
+    ]
   },
   {
     "id": "7",
-    "title": "Gold Slides Below $4,000, Heads for Weekly Loss as Oil Keeps Rate Fears Alive",
-    "content": "Gold held below $4,000 an ounce on Friday and was on track to lose more than 3% for the week, its weakest levels since late 2025, as an oil-driven revival in inflation worries kept expectations of higher-for-longer interest rates in play. Spot bullion traded near $3,986 and August futures around $3,980, with the surging crude price undercutting the appeal of the non-yielding metal.",
-    "summary": "Gold slipped below $4,000 an ounce and was set for a weekly loss of more than 3% as oil-fuelled rate fears sapped demand.",
-    "context": "• Gold pays no yield, so firmer expectations for interest rates typically weigh on its appeal versus cash and bonds.\n\n• The Middle East oil spike has revived inflation concerns that argue for tighter policy, pressuring bullion.\n\n• The metal is retreating from lofty 2026 levels reached during earlier bouts of geopolitical stress.",
-    "happened": "• Spot gold traded near $3,986 an ounce and August futures around $3,980 on Friday, holding below the $4,000 mark.\n\n• The metal was on course for a weekly drop of more than 3%, its softest since late 2025.\n\n• Rising oil prices and firmer rate-hike bets combined to sap safe-haven demand for bullion.",
-    "implications": "• Continued strength in oil and rate expectations could keep gold on the back foot despite geopolitical risk.\n\n• A sharper equity or geopolitical shock could nonetheless revive haven buying and stem the slide.\n\n• The metal's next move hinges heavily on the interplay between inflation data and Fed guidance.",
-    "importance": "• Gold is a key barometer of real-rate expectations and risk sentiment across markets.\n\n• A slide despite live geopolitical risk highlights how much rate expectations now dominate the metal.\n\n• Bullion moves influence miners, central-bank reserve flows and broader haven positioning.",
-    "date": "17 July 2026",
-    "tags": ["commodities"]
+    "title": "Gold Holds Near $4,050 as Middle East Ceasefire Hopes Trim Safe-Haven Bid",
+    "content": "Gold traded around $4,050 an ounce, steadying after a mid-week bounce on safe-haven demand tied to Middle East tensions, then easing as reports of US-Iran peace talks drained some of the geopolitical premium. The metal remains far below its late-January record near $5,000, having spent the first half of 2026 grinding lower even as bouts of geopolitical stress spark periodic rallies.",
+    "summary": "Gold hovered near $4,050 an ounce as Middle East ceasefire hopes pared the safe-haven premium that had lifted prices mid-week.",
+    "context": "• Gold set an all-time high near $5,000 in late January before retreating through the first half of 2026.\n\n• Safe-haven demand has ebbed and flowed with the intensity of Middle East hostilities.\n\n• Rising real yields have provided a headwind for the non-yielding metal.",
+    "happened": "• Gold traded around $4,052 an ounce on 24 July, little changed after a mid-week rise on safe-haven buying.\n\n• Reports of US-Iran peace talks pared the geopolitical premium that had briefly supported prices.\n\n• The metal remains well below its January record near $5,000 despite periodic flare-ups in demand.",
+    "implications": "• A durable Middle East de-escalation would remove a key pillar of support for bullion.\n\n• Higher-for-longer rates keep the opportunity cost of holding gold elevated.\n\n• Renewed geopolitical or inflation shocks could quickly revive the safe-haven bid.",
+    "importance": "• Gold is a barometer of geopolitical stress and real-rate expectations for global investors.\n\n• Its resilience above $4,000 signals lingering caution despite the equity rally earlier in the year.\n\n• Swings in bullion influence miners, central-bank reserve strategy and portfolio hedging.",
+    "date": "24 July 2026",
+    "tags": [
+      "commodities",
+      "futures"
+    ]
   },
   {
     "id": "8",
-    "title": "Bitcoin and Ether Slip as Iran Escalation Sours Risk Appetite",
-    "content": "Cryptocurrencies eased on Friday as escalating US-Iran hostilities dented risk appetite, with bitcoin opening around $63,800, down 1.4% on the day, and ether near $1,863, off 2.8%. The pullback unwound part of a mid-week surge that had lifted bitcoin above $64,900 after a softer-than-expected US inflation report.",
-    "summary": "Bitcoin slipped to around $63,800 and ether to about $1,863 as Middle East tensions weighed on risk sentiment.",
-    "context": "• Digital assets have increasingly traded as high-beta risk plays, tracking equities and shifts in Fed expectations.\n\n• A soft June inflation print earlier in the week had powered a rally, with bitcoin climbing above $64,900.\n\n• The renewed Iran conflict has since revived a broader risk-off tone across markets.",
-    "happened": "• Bitcoin opened near $63,800 on Friday, down 1.4% from Thursday, while ether fell 2.8% to around $1,863.\n\n• The declines pared gains booked mid-week after cooler inflation data buoyed risk assets.\n\n• The retreat mirrored weakness in equities as geopolitical tensions escalated.",
-    "implications": "• Crypto's tight correlation with equities leaves it exposed to any further risk-off move driven by the Gulf conflict.\n\n• A durable easing in inflation and rate expectations could restore the mid-week bid.\n\n• Sensitivity to macro data underscores how far digital assets now trade on the same signals as stocks.",
-    "importance": "• Bitcoin and ether are closely watched gauges of speculative risk appetite.\n\n• Their reaction to macro prints highlights crypto's integration into mainstream cross-asset flows.\n\n• Sharp swings carry read-through for crypto-linked equities and exchange-traded products.",
-    "date": "17 July 2026",
-    "tags": ["crypto"]
+    "title": "Tesla Crashes 14.5% in Worst Earnings Reaction on Record Profit Miss",
+    "content": "Tesla shares plunged about 14.5% to near $320 — one of their sharpest single-day falls in years — after second-quarter results paired record revenue of $28.2bn and 480,126 deliveries with a steep profit miss, as adjusted earnings of $0.33 a share undershot the roughly $0.50 consensus. Operating income slumped 57% to $398m on aggressive price cuts, weaker regulatory-credit income and heavy spending, dragging the Nasdaq lower.",
+    "summary": "Tesla shares tumbled around 14.5% after record revenue and deliveries were overshadowed by a sharp miss on profitability.",
+    "context": "• Tesla has leaned on price cuts to defend volumes, squeezing margins across recent quarters.\n\n• Investors have increasingly focused on profitability and free cash flow rather than headline delivery numbers.\n\n• The stock had run up on robotaxi and AI optimism, leaving little room for disappointment.",
+    "happened": "• Revenue hit an all-time high of $28.2bn, up 26% year on year, with a record 480,126 vehicles delivered, well above expectations.\n\n• Adjusted EPS of $0.33 missed consensus near $0.50, and operating income fell 57% to $398m.\n\n• The shares dropped roughly 14.5% to about $320, marking one of Tesla's worst post-earnings sessions and weighing on the Nasdaq.",
+    "implications": "• Persistent margin pressure raises questions about how quickly Tesla can convert growth into profit.\n\n• Reliance on one-off gains and credits to flatter earnings may draw sharper scrutiny from analysts.\n\n• Heavy capital spending on AI and new projects could keep free cash flow under pressure.",
+    "importance": "• Tesla is a megacap bellwether whose swings move the broader growth and momentum trade.\n\n• The reaction highlights how unforgiving the market has become on profitability, not just growth.\n\n• As an AI-and-robotics story, Tesla's guidance colours sentiment across the wider tech complex.",
+    "date": "23 July 2026",
+    "tags": [
+      "us-equities",
+      "stocks"
+    ]
   },
   {
     "id": "9",
-    "title": "US Inflation Cools Sharply to 3.5% in June as Energy Prices Slump",
-    "content": "US consumer prices fell 0.4% in June, the biggest monthly drop since April 2020, pulling the annual inflation rate down to 3.5% from 4.2% in May and well below the 3.8% economists had expected. Core inflation, which strips out food and energy, was flat on the month for a 2.6% annual pace, cementing expectations that the Federal Reserve will hold rates steady at its next meeting even as a September move stays on the table.",
-    "summary": "June CPI fell 0.4% on the month, cutting annual inflation to 3.5% and reinforcing bets the Fed will hold rates in July.",
-    "context": "• The Fed has kept its policy rate at 3.50%-3.75% and now relies on incoming data after dropping formal forward guidance.\n\n• Inflation had proved sticky earlier in the year, with the May reading at 4.2%, keeping tightening risk alive.\n\n• Energy prices had been a key swing factor, and June's drop reflected a sharp fall in petrol costs.",
-    "happened": "• Headline CPI fell 0.4% month-on-month and eased to 3.5% year-on-year, versus consensus for a 0.2% decline and a 3.8% annual rate.\n\n• The energy index slumped 5.7% on the month, its largest drop since April 2020, while core CPI was flat for a 2.6% annual pace.\n\n• Markets read the data as raising the odds of a July hold, with CME FedWatch showing roughly an 86% chance of no change, and equities and bitcoin rallied in response.",
-    "implications": "• A cooler core reading gives the Fed room to stay patient, though officials are wary of the oil-driven upside risk.\n\n• The subsequent rebound in crude could partly reverse June's energy-led disinflation in coming prints.\n\n• Continued softening would strengthen the case against further tightening later in the year.",
-    "importance": "• Inflation data is the single most important input for a Fed that has stripped out guidance in favour of the numbers.\n\n• The print reset rate expectations across bonds, the dollar and risk assets in a single session.\n\n• The tension between cooling core prices and rising energy costs will shape the policy debate into the autumn.",
-    "date": "14 July 2026",
-    "tags": ["us-equities", "fixed-income", "stocks", "bonds"]
+    "title": "Alphabet Sinks as Record $205bn Capex Plan Overshadows 82% Cloud Surge",
+    "content": "Alphabet shares fell despite a strong quarter — revenue rose 24% to $119.8bn and Google Cloud jumped 82% to $24.8bn — after the company lifted full-year capital-expenditure guidance to as much as $205bn from $180-190bn, sending free cash flow to negative $5.9bn. The eye-watering AI infrastructure bill crystallised investor anxiety over how much Big Tech is spending to chase the AI opportunity.",
+    "summary": "Alphabet stock slid as a raised $195-205bn capex plan and negative free cash flow overshadowed a 24% revenue jump and surging cloud growth.",
+    "context": "• Hyperscalers are racing to build AI compute, with capital budgets ballooning across the sector.\n\n• Alphabet's cloud unit has become a key growth engine, but the infrastructure to support it is capital-hungry.\n\n• Markets have grown wary of AI spending that outpaces near-term returns.",
+    "happened": "• Revenue rose 24% year on year to $119.8bn, with Google Cloud up 82% to $24.8bn and a backlog swelling to about $514bn.\n\n• Alphabet raised 2026 capex guidance to $195-205bn from $180-190bn, having spent $44.9bn in the quarter alone.\n\n• Free cash flow turned negative at -$5.9bn, and the shares fell as investors focused on spending over growth.",
+    "implications": "• Soaring capex across hyperscalers supports chip and data-centre demand but pressures their own margins and cash flow.\n\n• Investors will scrutinise upcoming results from other megacaps for signs of similar spending escalation.\n\n• The market's tolerance for 'spend now, profit later' AI bets is visibly narrowing.",
+    "importance": "• Alphabet's capex sets the tone for the entire AI-infrastructure supply chain, from chips to power.\n\n• The reaction underscores a shift in investor focus from AI revenue promise to AI cost reality.\n\n• As a market heavyweight, Alphabet's moves carry significant index-level weight.",
+    "date": "23 July 2026",
+    "tags": [
+      "us-equities",
+      "stocks"
+    ]
   },
   {
     "id": "10",
-    "title": "Wall Street Banks Post Record Q2 Profits as Trading and IPO Fees Surge",
-    "content": "The five largest US banks all beat estimates for the second quarter, led by JPMorgan Chase's record $21.2bn profit — the highest ever for a US bank — and Goldman Sachs' best quarter in its history. Booming trading revenue and a bonanza of investment-banking fees, including from June's record-breaking SpaceX flotation, drove the results and underscored the health of the largest lenders even as markets turned volatile.",
-    "summary": "JPMorgan posted a record $21.2bn quarterly profit and Goldman its best-ever quarter as US banks smashed Q2 estimates.",
-    "context": "• A revived capital-markets cycle, capped by SpaceX's roughly $86bn June listing at a $1.77tn valuation, has fuelled a surge in investment-banking fees.\n\n• Elevated interest rates and busy markets have lifted both net interest income and trading revenue across Wall Street.\n\n• Bank results are a widely watched read on the health of consumers, corporates and broader financial conditions.",
-    "happened": "• JPMorgan reported a record $21.2bn profit, up 41% year-on-year, with EPS of $6.14 versus $5.85 expected and revenue of $58.02bn.\n\n• Goldman Sachs posted its best-ever quarter, with EPS of $20.98 — nearly double a year earlier — and revenue up 39% to $20.34bn.\n\n• All five major lenders, including Bank of America, Citigroup and Wells Fargo, beat forecasts, buoyed by trading and IPO fees.",
-    "implications": "• Robust bank earnings point to resilient markets and dealmaking, supportive of the broader financial sector.\n\n• A reliance on trading and IPO windfalls raises questions about how repeatable the record results are if markets cool.\n\n• Strong balance sheets give the largest lenders room to return capital and absorb any downturn.",
-    "importance": "• The big banks kick off earnings season and set the tone for financials and the wider market.\n\n• Record trading and banking fees confirm a reopened capital-markets cycle after years of drought.\n\n• Bank profitability is a bellwether for credit conditions and the health of the real economy.",
-    "date": "14 July 2026",
-    "tags": ["us-equities", "stocks"]
+    "title": "European Shares Slide as ECB Holds but Leaves Door Open to a Hike",
+    "content": "The pan-European STOXX 600 posted its steepest one-day drop in more than two weeks, falling around 1.2-1.3%, after the European Central Bank held rates steady but President Christine Lagarde struck a hawkish tone that markets read as flagging a possible September hike. Lacklustre earnings, elevated oil prices and rising yields compounded the sell-off across the region's equities.",
+    "summary": "European stocks fell about 1.2-1.3% after the ECB held rates but signalled it could still hike in September.",
+    "context": "• The ECB has been balancing cooling growth against inflation that remains uncomfortably firm.\n\n• A renewed rise in oil prices has revived European inflation risk, hardening the bank's tone.\n\n• The STOXX 600 had hit record highs earlier in the month before Middle East tensions capped the rally.",
+    "happened": "• The ECB left interest rates unchanged, but Lagarde's comments were seen as leaving the door open to a September hike.\n\n• The STOXX 600 fell roughly 1.2-1.3%, its biggest one-day drop in over two weeks.\n\n• Weak corporate earnings, higher crude and rising bond yields added to the pressure on regional shares.",
+    "implications": "• A hawkish ECB pivot would lift European borrowing costs and weigh on rate-sensitive sectors.\n\n• Persistent oil-driven inflation could force the bank to tighten even as growth softens.\n\n• European equities may struggle to reclaim record highs while policy and geopolitical risks linger.",
+    "importance": "• The ECB's stance shapes the euro, European bond yields and the region's equity valuations.\n\n• A shift from cuts towards potential hikes marks a notable change in the policy narrative.\n\n• Europe's response to the oil shock is a key input for global inflation and rate expectations.",
+    "date": "23 July 2026",
+    "tags": [
+      "european-markets",
+      "stocks"
+    ]
   }
 ]
