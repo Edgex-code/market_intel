@@ -1,110 +1,142 @@
 [
   {
     "id": "1",
-    "title": "Wall Street Rebounds as Oil Retreats and CPI Lands in Line",
-    "content": "US stocks rallied on Friday, snapping a four-day losing streak, as retreating oil prices and an in-line inflation report calmed nerves after a turbulent week dominated by the Middle East conflict. The S&P 500 climbed 0.9% and both the Dow Jones Industrial Average and the Nasdaq Composite added 1.0%, though all three indices still finished the week lower as the energy-driven surge in Treasury yields weighed on sentiment.",
-    "summary": "US equities bounced on Friday as oil eased and August CPI matched forecasts, but Wall Street still closed a choppy week in the red.",
-    "context": "• Markets spent the week whipsawed by an oil shock triggered by the Iran war, which drove crude above $100 a barrel and pushed Treasury yields to multi-year highs.\n\n• Investors had been positioned for steady Fed policy, but the energy-led inflation scare revived speculation the central bank could turn more hawkish at its 15-16 September meeting.\n\n• Technology megacaps had led a summer rally, leaving richly valued indices sensitive to any renewed climb in the discount rate.",
-    "happened": "• The S&P 500 rose 0.9% to snap a four-session slide, while the Dow and the Nasdaq each gained 1.0%.\n\n• August CPI rose 0.4% month on month and 3.4% year on year, matching consensus and easing fears sparked by the prior day's hot producer-price data.\n\n• Crude retreated — WTI fell 2.4% to settle at $100.05 and Brent slid 2.8% to $104.61 — while the 2-year Treasury yield topped 4.6%, its highest since July 2024; for the week the Dow lost 1.6% and the S&P 500 fell 0.8%.",
-    "implications": "• With the FOMC due to meet on 15-16 September, any further spike in oil or inflation expectations could tilt the Fed towards holding firm or even tightening, a hawkish risk for equities.\n\n• High-multiple technology names remain the most exposed if the front end of the curve keeps repricing higher.\n\n• A durable de-escalation in the Middle East is now the clearest catalyst for a broader risk-on move.",
-    "importance": "• The week showed how quickly a geopolitical energy shock can override an otherwise benign US macro backdrop.\n\n• Friday's bounce signals dip-buying appetite persists, but narrow leadership leaves indices vulnerable to headline risk.\n\n• The inflation-yields-equity linkage is back at the centre of the market, raising the stakes on every data point and Fed signal.",
-    "date": "11 September 2026",
-    "tags": ["us-equities", "stocks"]
+    "title": "BOJ Lifts Rate to 31-Year High but Yen Slides",
+    "content": "The Bank of Japan raised its policy rate by 25 basis points to 1.25% on Friday, its highest since 1995 and a fresh step in normalising decades of ultra-loose policy. Yet the yen weakened past 157 per dollar and the Nikkei 225 rose about 1.5%, as a split 7-2 board vote and Governor Kazuo Ueda's reluctance to promise further hikes were read as less hawkish than feared.",
+    "summary": "The BOJ hiked to a 31-year-high 1.25%, but a divided vote and cautious guidance sent the yen lower and lifted the Nikkei.",
+    "context": "• The BOJ has been gradually unwinding years of ultra-loose policy, having lifted rates through 2026 as inflation held above its 2% target.\n\n• Prime Minister Sanae Takaichi appointed reflationist board members earlier this year, sharpening the divide over how fast to tighten.\n\n• A global bond sell-off and rising energy costs have kept upward pressure on Japanese inflation and yields.",
+    "happened": "• The board voted 7-2 to raise the rate to 1.25%, with reflationists Toichiro Asada and Ayano Sato dissenting.\n\n• The yen weakened past 157 per dollar as Ueda made no commitment to additional hikes.\n\n• The Nikkei 225 climbed roughly 1.5% as investors judged the overall message dovish relative to expectations.",
+    "implications": "• A cautious BOJ leaves the door open to renewed yen weakness, supporting Japanese exporters but raising imported-energy costs.\n\n• Continued divergence between a hawkish Fed and a hesitant BOJ could keep USD/JPY elevated.\n\n• Further tightening will hinge on wage and inflation data, keeping every BOJ meeting a live event for global carry trades.",
+    "importance": "• Japan's rate path is a key driver of global funding conditions and the yen carry trade.\n\n• The counterintuitive market reaction shows how guidance can matter more than the rate move itself.\n\n• A weaker yen despite a hike complicates the outlook for global investors hedging Japanese exposure.",
+    "date": "18 September 2026",
+    "tags": [
+      "asian-markets",
+      "forex",
+      "stocks"
+    ]
   },
   {
     "id": "2",
-    "title": "Asian Markets Slide as Oil Surge and Bond Rout Bite",
-    "content": "Asian equities fell broadly on Friday, tracking the global bond sell-off and the spike in oil prices as the Middle East conflict escalated. Japan's Nikkei 225 tumbled 1.93% to 64,011.34, weighed further by expectations of a Bank of Japan rate rise, while mainland China's Shanghai Composite dropped 1.18% and Hong Kong's Hang Seng eased 0.60%.",
-    "summary": "Asian markets sold off on Friday as surging oil and rising global yields hit risk appetite across the region.",
-    "context": "• The regional retreat followed a sharp jump in crude and a global bond rout sparked by intensifying US-Iran hostilities around the Strait of Hormuz.\n\n• Japanese equities faced an added headwind from mounting bets on a Bank of Japan hike at its 17-18 September meeting.\n\n• Higher energy import costs are a particular drag for oil-dependent Asian economies, threatening corporate margins and current-account balances.",
-    "happened": "• The Nikkei 225 fell 1.93% to 64,011.34 and the TOPIX slipped 0.65% to 4,028.30.\n\n• The Shanghai Composite declined 1.18% to 3,888.11, while the Hang Seng lost 0.60% to 24,805.63.\n\n• The moves mirrored Wall Street's mid-week slide and the surge in global government bond yields.",
-    "implications": "• A stronger yen on BOJ tightening would pressure Japanese exporters even as it eases imported-energy costs.\n\n• Sustained high oil prices could widen trade deficits across import-reliant economies such as India, Japan and South Korea.\n\n• Chinese equities remain caught between external energy pressure and hopes for further domestic stimulus.",
-    "importance": "• Asia's open often sets the tone for global risk sentiment, and Friday's declines underscored the worldwide reach of the oil shock.\n\n• The BOJ decision is a pivotal near-term catalyst for regional currencies and rates.\n\n• Energy-driven inflation complicates the easing paths several Asian central banks had been contemplating.",
-    "date": "11 September 2026",
-    "tags": ["asian-markets", "stocks"]
+    "title": "European Bourses Rally as Rate Fears Ease",
+    "content": "European equities climbed on Friday, with broad gains across major benchmarks as a retreat in oil prices and steadier bond markets calmed nerves after a bruising week. The Euro Stoxx 50 rose 0.94% to 6,325, Germany's DAX added 0.77% to 25,733, France's CAC 40 gained 0.57% to 8,187 and the UK's FTSE 100 advanced 1.19% to 10,816.",
+    "summary": "Major European indices rallied on Friday as easing oil and calmer bond markets lifted risk appetite.",
+    "context": "• European markets had been rattled through the week by a global bond rout and energy-driven inflation fears.\n\n• The Bank of England held rates on Thursday, while eurozone inflation data reinforced a higher-for-longer backdrop.\n\n• European equities have enjoyed a strong 2026, but rich valuations left them sensitive to the swing in yields.",
+    "happened": "• The Euro Stoxx 50 gained 0.94% to 6,325 and the DAX rose 0.77% to 25,733.\n\n• The CAC 40 added 0.57% to 8,187 while the FTSE 100 outperformed with a 1.19% rise to 10,816.\n\n• The advance tracked a pullback in crude prices and a steadier tone in government bond markets.",
+    "implications": "• Continued relief in energy and rates would support the region's banks and cyclicals.\n\n• Any renewed spike in oil or yields remains the clearest threat to the rally.\n\n• Sterling assets drew support from the BoE's steady-hand stance amid the broader turmoil.",
+    "importance": "• Europe's benchmarks have been among 2026's standout performers, so their resilience matters for global allocators.\n\n• The bounce shows dip-buying appetite survived the week's bond-driven volatility.\n\n• Rate-sensitive sectors remain the swing factor for the region's direction.",
+    "date": "18 September 2026",
+    "tags": [
+      "european-markets",
+      "stocks"
+    ]
   },
   {
     "id": "3",
-    "title": "Yen Firms Near Seven-Month High Ahead of BOJ Decision",
-    "content": "The Japanese yen held near a seven-month high against the dollar, trading around 153 per dollar, as traders positioned for a Bank of Japan rate rise at its 17-18 September meeting. The currency has gained more than 3% this month, supported by hawkish BOJ expectations, the unwinding of carry trades and repatriation flows, even as a global bond sell-off lifted yields elsewhere.",
-    "summary": "The yen firmed towards a seven-month high as markets priced in a likely Bank of Japan rate rise next week.",
-    "context": "• The BOJ lifted its policy rate to 1% in June, the highest since 1995, and board hawk Hajime Takata has pushed for a move to 1.25%.\n\n• Governor Kazuo Ueda has signalled a hike is likely this month, with traders assigning roughly 80% odds to action on 18 September.\n\n• Rising crude prices and persistent above-target inflation have strengthened the case for further Japanese tightening.",
-    "happened": "• The yen traded around 153 per dollar, close to its strongest level in seven months, and is up more than 3% in September.\n\n• The BOJ meets on 17-18 September, with markets pricing a strong chance of a rise from the current 1% policy rate.\n\n• Bank of America has forecast the yen could strengthen a further 6% by the end of 2026.",
-    "implications": "• A BOJ hike would narrow rate differentials with a still-elevated Fed, a dynamic that favours further yen appreciation.\n\n• Continued yen strength threatens the profits of Japan's large exporters but relieves the cost of dollar-priced energy imports.\n\n• An accelerated unwinding of yen carry trades could ripple through global risk assets, as seen in past episodes.",
-    "importance": "• USD/JPY is a key barometer of global risk appetite and funding conditions.\n\n• The BOJ's normalisation marks a historic shift after decades of ultra-loose policy, with cross-border spillovers.\n\n• Currency swings of this scale reshape hedging costs and returns for global investors in Japanese assets.",
-    "date": "11 September 2026",
-    "tags": ["forex", "asian-markets"]
+    "title": "Wall Street Steadies on Triple-Witching Friday",
+    "content": "US stocks ended a turbulent week on a mixed note during a triple-witching session, as the S&P 500 edged up 0.17% to 7,650.50 and the Nasdaq Composite rose 0.39% to 26,522.55, while the Dow Jones Industrial Average slipped 95.40 points, or 0.18%, to 51,682.64. The 10-year Treasury yield hovered near 5%, keeping pressure on rate-sensitive corners of the market as the Dow and S&P booked weekly losses.",
+    "summary": "US indices were mixed on a triple-witching Friday, with the Dow and S&P closing a volatile week lower as yields lingered near 5%.",
+    "context": "• Markets spent the week digesting the Fed's first rate hike since 2023 and a surge in Treasury yields.\n\n• Triple-witching, the simultaneous expiry of stock-index futures and options, tends to amplify volume and volatility.\n\n• Elevated long-term yields have weighed on richly valued megacap and growth names.",
+    "happened": "• The S&P 500 rose 0.17% to 7,650.50 and the Nasdaq gained 0.39% to 26,522.55.\n\n• The Dow fell 95.40 points to 51,682.64, and both the Dow and S&P finished the week lower.\n\n• The 10-year yield hovered around 5%, keeping a lid on broader risk appetite.",
+    "implications": "• With the Fed signalling another possible hike, equities remain hostage to the path of yields.\n\n• Growth and technology leadership is the most exposed if the front end reprices higher.\n\n• A sustained pullback in oil and yields is the clearest catalyst for a broader recovery.",
+    "importance": "• The session capped a week that reset expectations towards higher-for-longer US rates.\n\n• Narrow leadership leaves indices vulnerable to swings in a handful of megacaps.\n\n• Triple-witching flows can distort short-term signals, complicating positioning into quarter-end.",
+    "date": "18 September 2026",
+    "tags": [
+      "us-equities",
+      "stocks",
+      "options",
+      "futures"
+    ]
   },
   {
     "id": "4",
-    "title": "Gold Holds Near Record as War and Inflation Fears Persist",
-    "content": "Gold held near record highs, trading around $4,350 an ounce, as investors sought safety amid the Iran war and an energy-driven inflation scare. Bullion's advance has been tempered by surging real yields, which raise the opportunity cost of holding a non-yielding asset, leaving prices roughly flat over the past month but still up around 19% on the year.",
-    "summary": "Gold traded near record levels around $4,350 an ounce as war and inflation fears fuelled haven demand.",
-    "context": "• Bullion has set successive record highs through 2026 on geopolitical risk, central-bank buying and inflation hedging.\n\n• The Middle East conflict and the spike in oil prices have reinforced gold's appeal as a store of value.\n\n• However, the sharp rise in Treasury yields has capped gains by lifting the real cost of holding the metal.",
-    "happened": "• Spot gold rose 0.76% to about $4,350 an ounce on Friday, near its all-time high.\n\n• December futures had opened the month around $4,522 an ounce, underscoring the metal's elevated levels.\n\n• Over the past month gold is little changed as haven demand and rising yields offset one another, but it remains roughly 19% higher year on year.",
-    "implications": "• A further escalation in the Middle East or a renewed inflation surprise could push gold to fresh records.\n\n• Conversely, a sustained climb in real yields or a swift de-escalation would weigh on prices.\n\n• Continued central-bank accumulation provides a structural floor beneath the market.",
-    "importance": "• Gold's resilience signals persistent demand for hedges against geopolitical and inflation risk.\n\n• The metal's performance relative to real yields is a closely watched gauge of market stress.\n\n• Record prices affect miners, jewellery demand and the balance sheets of gold-holding central banks.",
-    "date": "11 September 2026",
-    "tags": ["commodities", "futures"]
+    "title": "10-Year Treasury Yield Camps Near 5%",
+    "content": "The benchmark 10-year US Treasury yield lingered around 5% at the end of the week after breaching that level earlier for the first time in almost three years, touching its highest since 2007. The monthslong sell-off has been driven by sticky inflation, a swelling budget deficit, heavy corporate issuance and an oil-led revival of inflation expectations, though some investors have begun stepping in to lock in 5% yields.",
+    "summary": "The 10-year Treasury yield held near 5%, at multi-year highs, as investors weighed a punishing bond rout against the appeal of 5% income.",
+    "context": "• US Treasuries have sold off for months on hot inflation, fiscal concerns and a flood of corporate supply.\n\n• The 10-year traded as high as 5.01% on 14 September, its highest since 2007.\n\n• Rising energy prices have revived expectations that central banks will keep policy tight.",
+    "happened": "• The 10-year yield hovered near 5% into Friday after breaking above it earlier in the week.\n\n• Strategists warned the sell-off may not be over, while others flagged the income cushion now on offer at 5% yields.\n\n• The move rippled into mortgages, corporate loans and other credit tied to the benchmark.",
+    "implications": "• Higher-for-longer yields raise borrowing costs across the economy and pressure equity valuations.\n\n• Fresh 5% entry points may draw yield-hungry buyers, potentially stabilising the market.\n\n• Any further fiscal or inflation shock could push yields to new cycle highs.",
+    "importance": "• The 10-year yield is the anchor for global asset pricing, from mortgages to megacap multiples.\n\n• A durable move above 5% marks a regime shift after years of ultra-low rates.\n\n• The tug-of-war between rout and income defines the near-term risk backdrop.",
+    "date": "18 September 2026",
+    "tags": [
+      "fixed-income",
+      "bonds"
+    ]
   },
   {
     "id": "5",
-    "title": "Bitcoin Drops Below $77,000 as Yields and Oil Weigh",
-    "content": "Bitcoin slid below $77,000 on Friday, extending a week of losses driven by rising Treasury yields, higher oil prices and mounting expectations of tighter monetary policy rather than any crypto-specific catalyst. The token fell about 1.5% to roughly $77,300 after settling near $76,600 on Thursday in the wake of a hotter-than-expected US producer-price report, while Ether slipped to around $2,466.",
-    "summary": "Bitcoin dropped below $77,000 as surging yields and rate-hike bets pressured risk assets across the board.",
-    "context": "• Cryptocurrencies pay no yield, making them sensitive to rising real interest rates that boost the appeal of bonds and cash.\n\n• The week's oil shock and bond sell-off pushed long-dated Treasury yields to multi-decade highs, a broad headwind for speculative assets.\n\n• Bitcoin had already been trading lower on the year despite strong exchange-traded-fund inflows earlier in 2026.",
-    "happened": "• Bitcoin fell about 1.5% to around $77,300, having settled near $76,568 on Thursday after the hot PPI print.\n\n• Ether eased about 0.6% to roughly $2,466, tracking bitcoin lower.\n\n• Traders reported around $562m in bitcoin leveraged-position liquidations, including some $484m in long positions.",
-    "implications": "• With CME FedWatch showing rising odds of a Fed move next week, further yield increases could keep pressure on crypto.\n\n• A de-escalation in the Middle East or softer inflation data would ease the macro headwinds weighing on digital assets.\n\n• Heavy long liquidations suggest leverage remains a source of near-term volatility.",
-    "importance": "• Bitcoin is increasingly trading as a macro risk asset, closely tied to rates and liquidity conditions.\n\n• The sell-off highlights crypto's vulnerability when real yields rise sharply.\n\n• Leverage-driven swings underscore the asset class's sensitivity to shifts in sentiment.",
-    "date": "11 September 2026",
-    "tags": ["crypto"]
+    "title": "Gold Notches First Weekly Gain in a Month",
+    "content": "Gold edged up to a one-week high around $4,380 an ounce on Friday, posting its first weekly advance in four weeks as a retreat in oil prices eased fears of prolonged inflation. Gains were capped by a firmer dollar, which stayed supported after the Federal Reserve raised rates by 25 basis points earlier in the week.",
+    "summary": "Gold rose to a one-week high near $4,380, its first weekly gain in a month, as easing oil offset a stronger post-Fed dollar.",
+    "context": "• Gold has climbed more than 25% since early 2025 on inflation and geopolitical uncertainty.\n\n• Central banks bought a net 288.9 tonnes in the second quarter, up 62% year on year, the strongest Q2 in World Gold Council data.\n\n• The metal had slipped in prior weeks as surging yields raised the opportunity cost of holding bullion.",
+    "happened": "• Gold reached about $4,383 an ounce on Friday, up roughly 1% on the day.\n\n• It secured its first weekly gain in four weeks as crude prices retreated.\n\n• A stronger dollar, buoyed by the Fed's hike, limited further upside.",
+    "implications": "• Persistent central-bank buying provides a structural floor under prices.\n\n• A renewed climb in real yields or the dollar remains the main headwind for bullion.\n\n• Ongoing Middle East tensions keep safe-haven demand in play.",
+    "importance": "• Gold's resilience near records signals deep-seated demand for inflation and geopolitical hedges.\n\n• Record central-bank accumulation reflects a broader diversification away from the dollar.\n\n• The metal's direction is a barometer of real-rate and risk sentiment.",
+    "date": "18 September 2026",
+    "tags": [
+      "commodities",
+      "futures"
+    ]
   },
   {
     "id": "6",
-    "title": "Brent Spikes to $108 as US-Iran Conflict Threatens Supply",
-    "content": "Oil prices soared on Thursday, with Brent crude jumping as much as 7.1% to hit $108 a barrel — its highest since May — as intensifying hostilities between the US and Iran threatened supply routes through the Strait of Hormuz and the Red Sea. Brent settled 6.34% higher at $107.63 and US crude climbed 6.69% to $102.48 in its biggest one-day jump in six weeks, sending shockwaves through global bonds and equities.",
-    "summary": "Brent crude spiked to $108 a barrel as US-Iran hostilities threatened key shipping routes, rattling global markets.",
-    "context": "• The Middle East conflict has escalated sharply, with the US and Iran trading strikes and Iran-backed Houthis attacking Saudi Arabia and shipping in the Bab al-Mandab Strait.\n\n• Saudi Arabia shut its East-West crude pipeline as a precaution, tightening available supply.\n\n• The surge came despite the International Energy Agency cutting its 2026 demand forecast, its largest projected annual decline since the pandemic.",
-    "happened": "• Brent rose as much as 7.1% to $108 before settling 6.34% higher at $107.63, its highest close since 19 May.\n\n• US WTI crude hit $103 for the first time since May, settling 6.69% higher at $102.48.\n\n• The oil spike drove the 10-year Treasury yield above 4.97% and pushed global equities lower.",
-    "implications": "• Sustained crude above $100 would feed directly into headline inflation, complicating central-bank policy worldwide.\n\n• Any disruption to Strait of Hormuz traffic — a chokepoint for roughly a fifth of global oil — risks a far sharper spike.\n\n• Energy-intensive sectors and import-dependent economies face margin and current-account pressure.",
-    "importance": "• Oil is the key transmission channel turning a regional conflict into a global macro shock.\n\n• The move revived the inflation-and-rates fears that had eased over the summer.\n\n• Traders across every asset class are now hostage to Middle East headlines.",
-    "date": "10 September 2026",
-    "tags": ["commodities", "futures"]
+    "title": "Brent Eases Toward $103 as Supply Fears Cool",
+    "content": "Brent crude slipped about 1.5% to around $103 a barrel on Friday, extending a retreat from mid-week highs as fears of an imminent supply disruption eased. Prices remain sharply elevated — up around 13% over the past month — after fresh US-Iran clashes around the Strait of Hormuz drove both benchmarks above $100 earlier in September.",
+    "summary": "Brent eased to roughly $103 on Friday, cooling from recent highs but still up sharply on the month amid US-Iran tensions.",
+    "context": "• Renewed US strikes on Iranian targets near the Strait of Hormuz sent crude sharply higher in early September.\n\n• Constrained Middle East exports and regional production shut-ins tightened supply through August.\n\n• Oil's surge has been the key driver of the global inflation and bond-yield scare.",
+    "happened": "• Brent fell about 1.5% to near $103.21 a barrel on Friday.\n\n• The benchmark is up roughly 13% over the past month after breaking above $100 on 9 September.\n\n• Easing supply-disruption fears allowed prices to retreat from their highs.",
+    "implications": "• Any renewed escalation around Hormuz could quickly reverse the pullback.\n\n• Sustained high crude prices keep upward pressure on inflation and central-bank hawkishness.\n\n• Energy-importing economies remain exposed to wider trade deficits and margin pressure.",
+    "importance": "• Oil sits at the centre of the current inflation-yields-equities nexus.\n\n• The Strait of Hormuz remains a critical chokepoint for global supply.\n\n• Crude's path is a leading indicator for inflation expectations and Fed policy.",
+    "date": "18 September 2026",
+    "tags": [
+      "commodities",
+      "futures"
+    ]
   },
   {
     "id": "7",
-    "title": "Treasury Yields Hit Multi-Year Highs Before Buyback Relief",
-    "content": "Government bonds sold off sharply on Thursday as the oil-driven inflation scare and a hotter-than-expected US producer-price report drove yields to multi-year highs. The 10-year Treasury yield surged more than 10 basis points to 4.97%, its highest since October 2023, while the 30-year topped 5.3%, a level last seen in 2007, prompting the US Treasury to announce it would at least double its long-dated debt buybacks.",
-    "summary": "Treasury yields spiked to multi-year highs on the oil-inflation shock before easing after the Treasury doubled debt buybacks.",
-    "context": "• Bond markets had already been under pressure from persistent inflation and concerns over rising government borrowing.\n\n• The jump in crude prices and a hot PPI print reignited fears the Fed could keep policy tight or even raise rates.\n\n• The sell-off was global, with yields climbing across Europe and Asia.",
-    "happened": "• The 10-year yield rose above 4.97% and the 2-year climbed towards 4.54%, while the 30-year exceeded 5.3%.\n\n• The US Treasury said it would lift the maximum size of its buybacks of long-term debt from $2bn to at least $4bn.\n\n• Following the announcement, yields pared gains, with the 30-year falling as much as 9 basis points to 5.19%.",
-    "implications": "• Higher long-end yields raise borrowing costs across the economy, from mortgages to corporate credit.\n\n• The Treasury's larger buybacks signal official concern about market functioning and could cap further spikes.\n\n• Rising yields tighten financial conditions, a headwind for equities and rate-sensitive sectors.",
-    "importance": "• The 10-year yield is the global benchmark risk-free rate, anchoring valuations across markets.\n\n• A disorderly bond sell-off can quickly spill into equities, credit and currencies.\n\n• The episode tests the resilience of the world's largest and most systemically important bond market.",
-    "date": "10 September 2026",
-    "tags": ["fixed-income", "bonds"]
+    "title": "Bitcoin Claws Back Toward $80,000 as Yields Ease",
+    "content": "Bitcoin recovered to around $78,000, up more than 5% on the day, as a slight easing in Treasury yields and softer oil prices revived risk appetite in digital assets. The rebound followed a bruising stretch in which the token had dipped below $76,000 after the US Senate narrowly blocked the CLARITY Act, unsettling crypto markets.",
+    "summary": "Bitcoin rebounded above $78,000 as yields eased, recovering from a slide triggered by the Senate blocking the CLARITY Act.",
+    "context": "• Crypto has traded in tight correlation with rates, coming under pressure as the 10-year yield pushed towards 5%.\n\n• September has historically been a weak month for bitcoin, dubbed \"Rektember\" by some traders.\n\n• The Senate's rejection of the CLARITY Act revived uncertainty over US digital-asset regulation.",
+    "happened": "• Bitcoin traded around $78,000, up more than 5% over 24 hours.\n\n• The bounce came as the 10-year yield eased from above 5% and oil retreated.\n\n• The token had earlier fallen below $76,000 after the CLARITY Act was blocked in the Senate.",
+    "implications": "• Crypto's fate remains tightly bound to the direction of yields and broader risk sentiment.\n\n• Regulatory uncertainty in Washington is likely to keep volatility elevated.\n\n• A sustained pullback in rates would remove a key headwind for digital assets.",
+    "importance": "• Bitcoin's sensitivity to yields underscores its role as a high-beta risk asset.\n\n• US regulatory clarity is a pivotal swing factor for institutional participation.\n\n• Sharp reversals highlight the market's fragility in a higher-rate regime.",
+    "date": "18 September 2026",
+    "tags": [
+      "crypto"
+    ]
   },
   {
     "id": "8",
-    "title": "ECB Hikes to 2.5% as Energy Shock Lifts Eurozone Inflation",
-    "content": "The European Central Bank raised its key deposit rate by 25 basis points to 2.5% on Thursday, its second hike of the year, as an energy-driven jump in eurozone inflation forced policymakers to tighten despite fragile growth. President Christine Lagarde called the unanimous decision 'a no brainer' and warned that the Middle East conflict and Russia's war on Ukraine would keep headline inflation well above the 2% target for an extended period.",
-    "summary": "The ECB lifted rates to 2.5% to counter an energy-led inflation surge, with Lagarde signalling further tightening ahead.",
-    "context": "• Surging oil and gas prices from the Iran war have reignited inflation pressures across the eurozone.\n\n• The ECB had already begun tightening earlier in 2026, reversing an easing bias as energy costs climbed.\n\n• European equities entered the decision under pressure, with a global bond sell-off lifting regional yields.",
-    "happened": "• The ECB raised the deposit rate to 2.5% from 2.25% in a unanimous vote, its second increase this year.\n\n• Lagarde described the move as robust across the bank's economic scenarios and flagged upside inflation risks.\n\n• The pan-European STOXX 600 fell 2.2% over the week, its biggest weekly loss since April, while markets priced in further hikes.",
-    "implications": "• Additional ECB tightening would raise financing costs for heavily indebted eurozone governments and companies.\n\n• A hawkish ECB could support the euro but weigh on rate-sensitive equity sectors.\n\n• Persistent energy-led inflation leaves the bank caught between price stability and slowing growth.",
-    "importance": "• The ECB's pivot back to hiking marks a significant shift for the world's second-largest economic bloc.\n\n• European bond and equity markets are highly sensitive to the pace of further tightening.\n\n• The decision underscores how the oil shock is forcing central banks globally towards a more hawkish stance.",
-    "date": "10 September 2026",
-    "tags": ["european-markets", "stocks", "fixed-income", "bonds"]
+    "title": "Eurozone Inflation Climbs to 3.2%, BoE Holds",
+    "content": "Euro-area annual inflation rose to 3.2% in August, up from 2.9% in July and its highest since September 2023, as an energy-led surge kept price pressures well above the ECB's 2% target, Eurostat confirmed. In the UK, the Bank of England left rates unchanged on Thursday, opting for caution as it weighed sticky inflation against a fragile growth backdrop.",
+    "summary": "Eurozone inflation accelerated to 3.2% in August while the Bank of England held rates, underscoring a higher-for-longer European backdrop.",
+    "context": "• Surging energy prices have reignited inflation across Europe after a period of disinflation.\n\n• The ECB had already tightened in response to the energy shock, lifting its policy rate.\n\n• The Bank of England has been balancing above-target inflation against sluggish growth.",
+    "happened": "• Eurostat confirmed euro-area inflation at 3.2% in August, up from 2.9% in July.\n\n• Core inflation, excluding energy and food, edged up to 2.5%, with services at 3.3%.\n\n• The Bank of England held its policy rate steady at its September meeting.",
+    "implications": "• Persistent above-target inflation limits the ECB's room to ease and supports higher yields.\n\n• The BoE's hold signals a data-dependent, cautious path amid conflicting pressures.\n\n• European bonds remain exposed if energy-driven inflation proves sticky.",
+    "importance": "• The data reinforces the higher-for-longer narrative dominating global rate markets.\n\n• Divergent central-bank responses shape euro and sterling direction.\n\n• Inflation's energy sensitivity ties Europe's outlook to the oil market.",
+    "date": "17 September 2026",
+    "tags": [
+      "european-markets",
+      "fixed-income",
+      "bonds"
+    ]
   },
   {
     "id": "9",
-    "title": "Nvidia-Palantir Sovereign-AI Deal Overshadowed by Sell-Off",
-    "content": "Nvidia and Palantir unveiled a sovereign artificial-intelligence partnership on Thursday, combining Nvidia's Nemotron open models with Palantir's Foundry and AIP software to help governments and companies deploy AI across critical supply chains. Despite the strategic significance, both stocks fell — Nvidia dropping about 2.2% and Palantir around 2% — as surging Treasury yields, oil above $100 and renewed inflation fears pressured high-valuation technology shares.",
-    "summary": "Nvidia and Palantir announced a sovereign-AI tie-up, but both stocks fell as the macro sell-off hit tech valuations.",
-    "context": "• The AI-chip trade has led US equities in 2026, with Nvidia at the centre of market leadership.\n\n• Hyperscaler capital spending is projected to jump from around $800bn in 2026 towards $1.3tn in 2027, underpinning chip demand.\n\n• Richly valued technology names are particularly exposed when interest rates and discount rates rise.",
-    "happened": "• The companies said they would integrate Nvidia's Nemotron open-weight models into Palantir's software, with the first deployment inside Nvidia's own supply chain.\n\n• Nvidia shares fell about 2.2% and Palantir dropped roughly 2% on the day.\n\n• The muted reaction came as the 10-year Treasury yield spiked and crude traded above $100 a barrel.",
-    "implications": "• Sovereign-AI deals could open a large new market as governments seek control over critical AI infrastructure.\n\n• Continued increases in yields would keep pressure on the elevated valuations underpinning the AI trade.\n\n• Nvidia's direction remains a bellwether for the broader equity market given its index weight.",
-    "importance": "• As the market's largest company and AI leader, Nvidia's moves ripple across the major indices.\n\n• The deal signals how AI is expanding from model-building into operational deployment at scale.\n\n• The sell-off despite positive news shows how macro forces are currently overriding company-specific catalysts.",
-    "date": "10 September 2026",
-    "tags": ["us-equities", "stocks"]
+    "title": "Fed Hikes for First Time Since 2023, Signals More",
+    "content": "The Federal Reserve raised its benchmark interest rate by 25 basis points to a 3.75%-4% range on Wednesday, its first hike since July 2023, in a 12-0 vote aimed at containing inflation stoked by soaring oil prices. Chair Kevin Warsh said inflation had been \"too high for too long\", and the updated dot plot showed the median policymaker expecting one further hike in 2026, a hawkish shift that rattled equities and lifted yields.",
+    "summary": "The Fed hiked rates 25bp to 3.75%-4%, its first increase since 2023, and signalled another may follow, jolting stocks and bonds.",
+    "context": "• The move marks a sharp reversal from the easing cycle that ended late last year.\n\n• A strong August jobs report, sticky inflation and an oil-driven price surge pushed the Fed to act.\n\n• Long-term yields had already climbed towards 5% ahead of the decision.",
+    "happened": "• The FOMC voted 12-0 to lift the funds rate to a 3.75%-4% target range.\n\n• Warsh flagged persistent inflation and said the Fed must prevent price shocks from broadening.\n\n• The dot plot pencilled in one more 25bp hike this year, a hawkish surprise for markets.",
+    "implications": "• A tightening Fed raises the discount rate on equities, pressuring high-multiple sectors.\n\n• Higher-for-longer policy supports the dollar and keeps upward pressure on yields.\n\n• The path ahead hinges on whether the oil-led inflation spike broadens into services.",
+    "importance": "• The hike confirms a regime change after markets had positioned for continued easing.\n\n• Warsh's inflation-fighting stance resets expectations for Fed policy into 2027.\n\n• Rate-sensitive assets across equities, bonds and FX must reprice around a hawkish Fed.",
+    "date": "16 September 2026",
+    "tags": [
+      "us-equities",
+      "fixed-income",
+      "stocks",
+      "bonds"
+    ]
   }
 ]
