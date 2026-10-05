@@ -1,148 +1,122 @@
 [
   {
     "id": "1",
-    "title": "Wall Street Books Weekly Gain Despite Bond Rout",
-    "content": "US equities closed higher on Friday and secured weekly gains, shrugging off a punishing rise in Treasury yields as oil prices eased. The S&P 500 added 0.51% to 7,743.41, the Nasdaq Composite rose 0.48% to 27,068.72 and the Dow Jones Industrial Average jumped 478.64 points, or 0.93%, to 51,828.62, leaving all three benchmarks higher for the week even as the 10-year yield hovered near 5.2%.",
-    "summary": "US stocks rose on Friday and finished the week higher, defying a jump in Treasury yields as crude prices retreated.",
-    "context": "• Markets are still adjusting to the Federal Reserve's September hike to a 3.75%-4% target range, its first increase since 2023.\n\n• Elevated long-term yields have pressured richly valued megacap and growth names for much of the month.\n\n• A retreat in oil, on hopes of a phased reopening of the Strait of Hormuz, helped calm inflation nerves into the weekend.",
-    "happened": "• The S&P 500 rose 0.51% to 7,743.41 and the Nasdaq gained 0.48% to 27,068.72.\n\n• The Dow climbed 478.64 points, or 0.93%, to 51,828.62, with all three indices booking weekly gains.\n\n• The advance came despite the 10-year Treasury yield lingering around 5.2%, near multi-year highs.",
-    "implications": "• With the Fed signalling further tightening, equities remain hostage to the path of yields.\n\n• Continued relief in oil would ease the inflation impulse that has driven the bond sell-off.\n\n• Any renewed spike in crude or long-end yields is the clearest threat to the rebound.",
-    "importance": "• The weekly gain shows dip-buying appetite has survived a bruising move in rates.\n\n• Leadership in technology and growth is the most exposed if the long end reprices higher.\n\n• Direction from here hinges on whether disinflation resumes or oil reignites price pressures.",
-    "date": "25 September 2026",
-    "tags": [
-      "us-equities",
-      "stocks"
-    ]
+    "title": "Brent Tops $100 as China Halts Fuel Exports",
+    "content": "Oil prices climbed over the week, with Brent crude pushing back above $100 a barrel as renewed US-Iran tensions and China's suspension of refined-fuel exports for October offset signs of recovering Middle Eastern supply. Brent rose 4.5% from $97.45 to $101.88 a barrel while West Texas Intermediate edged 0.9% higher from $89.50 to $90.31, keeping an inflationary impulse running through global bond and equity markets.",
+    "summary": "Brent crude rose 4.5% back above $100 a barrel as China's October fuel-export halt and Middle East risk offset recovering supply.",
+    "context": "• Elevated crude has been a central driver of 2026's global bond sell-off, feeding inflation fears and bets on tighter policy.\n\n• A conflict in the Middle East has kept a risk premium in oil even as Saudi export volumes have begun to recover.\n\n• Weakness elsewhere in commodities — lithium carbonate and iron ore led the week's falls — points to softer industrial demand.",
+    "happened": "• Brent gained 4.5% over the week to $101.88 a barrel, moving back above the $100 mark.\n\n• WTI rose 0.9% to $90.31, remaining below $100.\n\n• China suspended refined-fuel exports for October while renewed US-Iran tensions added to supply-side risk.",
+    "implications": "• Sustained crude above $100 complicates the disinflation narrative that markets are leaning on for central-bank relief.\n\n• A Chinese export halt tightens regional product markets and could lift refining margins.\n\n• Any de-escalation in the Middle East or firmer Saudi flows would be the clearest trigger for prices to retreat.",
+    "importance": "• Oil is the swing factor behind the inflation angst driving long-end yields higher worldwide.\n\n• Energy costs feed directly into headline inflation ahead of the Federal Reserve's late-October decision.\n\n• Commodity divergence — firm crude against falling metals — signals a market worried about prices, not growth.",
+    "date": "3 October 2026",
+    "tags": ["commodities", "futures"]
   },
   {
     "id": "2",
-    "title": "10-Year Yield Near 5.2% as Rate-Hike Bets Build",
-    "content": "US Treasuries extended their sell-off, with the 10-year yield hovering around 5.2% on Friday, close to its highest level since 2007, as investors priced in the risk of further Federal Reserve tightening. Hawkish Fed commentary, a jump in University of Michigan inflation expectations and worries over rising government debt combined to push yields higher, with futures now implying a strong chance of another hike as soon as October.",
-    "summary": "The 10-year Treasury yield sat near 5.2%, close to a multi-year high, as markets braced for more Fed tightening.",
-    "context": "• The Fed lifted rates to 3.75%-4% in September and updated projections point to the possibility of another increase this year.\n\n• Oil above US$100 for much of the month has stoked fears that inflation will prove sticky.\n\n• Strong US data, a widening deficit and heavy issuance have all weighed on the long end of the curve.",
-    "happened": "• The 10-year yield hovered around 5.2%, near its highest since 2007.\n\n• The University of Michigan survey confirmed a sharp rise in inflation expectations in September.\n\n• CME FedWatch pricing implied roughly a 75% chance of an October hike and around a 59% chance of a further move in December.",
-    "implications": "• Higher-for-longer yields raise borrowing costs across mortgages, corporate credit and government debt.\n\n• A repricing of the front end would pressure rate-sensitive equities and lengthen the bond drawdown.\n\n• Fiscal supply concerns could keep a structural premium in long-dated Treasuries.",
-    "importance": "• The 10-year yield is the global benchmark for the price of money, anchoring valuations across asset classes.\n\n• A durable move above 5% marks a regime shift after years of ultra-low rates.\n\n• Every inflation print and Fed speech is now a live catalyst for volatility.",
-    "date": "25 September 2026",
-    "tags": [
-      "fixed-income",
-      "bonds"
-    ]
+    "title": "Gold Tumbles 3.5% in Sharpest Weekly Drop",
+    "content": "Gold suffered a sharp weekly reversal, falling about $149 an ounce, or 3.5%, to around $4,170 as rising real yields and a firmer tone in risk assets drew money out of the metal. Silver, copper and natural gas also ended the week lower, with gold trading near $4,140 an ounce on Friday as the multi-year Treasury sell-off lifted the opportunity cost of holding non-yielding assets.",
+    "summary": "Gold fell 3.5% on the week to around $4,170 an ounce as surging Treasury yields raised the cost of holding bullion.",
+    "context": "• Gold had rallied strongly through 2026 on geopolitical risk and central-bank buying, leaving it exposed to a pullback.\n\n• Higher real yields make non-yielding bullion relatively less attractive, pressuring prices.\n\n• A broad commodity retreat, led by lithium and iron ore, accompanied the move lower in precious metals.",
+    "happened": "• Gold fell roughly $149 an ounce, or 3.5%, over the week to around $4,170.\n\n• The metal traded near $4,140 an ounce on Friday, down about 0.9% on the day.\n\n• Silver, copper and natural gas also closed the week lower.",
+    "implications": "• Further increases in long-end yields would keep pressure on bullion in the near term.\n\n• A renewed flight to safety from equities or geopolitics could quickly reverse the pullback.\n\n• The scale of the drop tests whether 2026's gold bulls treat weakness as a buying opportunity.",
+    "importance": "• Gold's slide underlines how dominant the rates story has become across asset classes.\n\n• The move is a gauge of positioning after a crowded, record-setting rally in the metal.\n\n• Precious-metals weakness alongside firm oil highlights a market repricing real rates, not growth.",
+    "date": "3 October 2026",
+    "tags": ["commodities"]
   },
   {
     "id": "3",
-    "title": "Dollar Holds Near Two-Month High on Yield Surge",
-    "content": "The US dollar held firm on Friday, with the dollar index staying above 101 and near its strongest level in nearly two months, on track for a second consecutive weekly gain. Rising Treasury yields widened the greenback's rate advantage, sending the euro and the yen to roughly 1.5-week lows, though the yen drew some support after Tokyo and Washington reaffirmed the stance underpinning July's joint interventions.",
-    "summary": "The dollar held near a two-month high and headed for a second weekly gain as surging Treasury yields boosted its rate advantage.",
-    "context": "• Widening interest-rate differentials have underpinned the dollar as the Fed leans hawkish.\n\n• The Bank of Japan raised rates to a 31-year-high 1.25% last week but offered cautious guidance, leaving the yen vulnerable.\n\n• Joint US-Japan interventions in July set a reference point that authorities continue to defend.",
-    "happened": "• The dollar index held above 101, near its strongest in almost two months, on course for a second straight weekly rise.\n\n• The euro and yen slipped to around 1.5-week lows against the dollar.\n\n• Higher T-note yields strengthened the dollar's rate differentials into the weekend.",
-    "implications": "• A stronger dollar tightens global financial conditions and pressures emerging-market borrowers.\n\n• Renewed yen weakness supports Japanese exporters but raises imported-energy costs.\n\n• Sustained divergence between the Fed and other central banks could extend the dollar's advance.",
-    "importance": "• The dollar's direction reshapes corporate earnings, commodity prices and cross-border flows.\n\n• Yen levels remain a key trigger for intervention risk and the global carry trade.\n\n• FX moves are increasingly being driven by the US rates story rather than growth differentials.",
-    "date": "25 September 2026",
-    "tags": [
-      "forex"
-    ]
+    "title": "US Payrolls Miss Badly, Easing Fed Hike Bets",
+    "content": "The US labour market faltered in September, with nonfarm payrolls rising just 29,000 against forecasts of about 84,000 and the unemployment rate ticking up to 4.2%. The downside surprise, combined with a 60,000 downward revision to July and August, pushed traders to price a far higher chance the Federal Reserve holds rates steady at its late-October meeting and helped equities rally while short-dated yields eased.",
+    "summary": "September payrolls rose just 29,000 and unemployment climbed to 4.2%, boosting bets the Fed pauses in October.",
+    "context": "• The Fed has been in a tightening cycle, with the policy rate near 3.9% as it fights sticky inflation.\n\n• Hiring has slowed through 2026, with the prior 12-month average monthly gain around 45,000.\n\n• Markets have been torn between resilient activity and signs the jobs engine is cooling.",
+    "happened": "• Payrolls rose 29,000 in September versus forecasts near 84,000, with July and August revised down a combined 60,000.\n\n• The jobless rate rose to 4.2% and labour-force participation edged up to 61.8%; the private sector added 46,000 jobs while government shed 17,000.\n\n• Traders moved to price roughly a 77% chance the Fed holds in October, though a December hike is still seen as likely.",
+    "implications": "• A softer labour market gives the Fed room to pause even with inflation above target.\n\n• Further weakness could shift the debate from rate hikes to the timing of eventual cuts.\n\n• Upcoming September CPI and PPI releases will test whether the pause thesis holds.",
+    "importance": "• Payrolls are the week's pivotal macro catalyst, steering both the rates and equity narratives.\n\n• A dovish repricing supports richly valued growth and technology names most exposed to rates.\n\n• The downward revisions raise questions about the true underlying pace of US hiring.",
+    "date": "2 October 2026",
+    "tags": ["us-equities", "fixed-income", "stocks", "bonds"]
   },
   {
     "id": "4",
-    "title": "Oil Slides on Hopes of Hormuz Reopening Deal",
-    "content": "Crude prices fell on Friday as reports that US and Iranian negotiators are exploring a phased deal to reopen the Strait of Hormuz eased acute supply fears. West Texas Intermediate settled around $92 a barrel and Brent near $104, pulling back sharply, though US crude still held gains of roughly 18% for the month after weeks of conflict-driven disruption to the vital waterway.",
-    "summary": "Oil dropped on Friday as talks over a phased reopening of the Strait of Hormuz eased supply concerns, though crude remained sharply higher on the month.",
-    "context": "• The 2026 Iran conflict has severely restricted traffic through the Strait of Hormuz, a chokepoint for a large share of seaborne crude.\n\n• The disruption has been described by the IEA as one of the largest supply shocks in the history of the oil market.\n\n• Saudi Arabia has rerouted some exports to compensate for damaged infrastructure, adding to volatile price swings.",
-    "happened": "• WTI settled around $92 a barrel and Brent near $104, both down on the day.\n\n• The falls followed reports that Washington and Tehran are weighing a phased arrangement to restore access through Hormuz.\n\n• Despite Friday's drop, US crude was still up roughly 18% for the month.",
-    "implications": "• A confirmed reopening would relieve a major inflation driver and give central banks room to pause tightening.\n\n• Any breakdown in talks or fresh attacks could send prices sharply higher again.\n\n• Energy-heavy equity sectors and import-dependent economies remain acutely exposed to the outcome.",
-    "importance": "• Oil is the single biggest swing factor for global inflation and rate expectations right now.\n\n• The Hormuz standoff links geopolitics directly to bond, FX and equity markets.\n\n• Headline-driven crude moves are amplifying volatility across every asset class.",
-    "date": "25 September 2026",
-    "tags": [
-      "commodities"
-    ]
+    "title": "Bond Rout Drives 30-Year Yield to 2002 High",
+    "content": "The global bond sell-off deepened, with the 30-year US Treasury yield climbing above 5.6% to its highest level since 2002 and the 10-year holding near 5.28%. Inflation angst tied to elevated oil, heavy corporate and government debt supply and an unwind of the yen-funded carry trade combined to drive the biggest Treasury rout since the April 2025 tariff shock, keeping long-dated yields elevated even after a weak jobs report.",
+    "summary": "The 30-year Treasury yield rose above 5.6% to a 2002 high as inflation fears and heavy supply fuelled a global bond rout.",
+    "context": "• Long-end yields have marched higher through 2026 on sticky inflation and fiscal-sustainability worries.\n\n• Elevated oil prices tied to Middle East conflict have reinforced bets that central banks stay restrictive.\n\n• An unwind of the yen carry trade has added a technical leg to the global sell-off.",
+    "happened": "• The 30-year yield pushed above 5.6% to touch its highest level since 2002.\n\n• The 10-year yield held near 5.28% and the 2-year near 4.84%, with the curve steep at the long end.\n\n• Yields rose even after the soft September payrolls print, underscoring supply and inflation pressures.",
+    "implications": "• Higher-for-longer long rates raise borrowing costs across mortgages, corporates and governments.\n\n• Persistent long-end pressure caps valuations for rate-sensitive equities and lengthens the duration drag on portfolios.\n\n• Relief hinges on oil cooling, lighter issuance or clearer signs of disinflation.",
+    "importance": "• Treasuries are the global risk-free benchmark, so the move reverberates across every asset class.\n\n• A 2002-high long yield marks a structural shift in the cost of capital.\n\n• The rout is now the dominant force dictating equity, FX and commodity direction.",
+    "date": "2 October 2026",
+    "tags": ["fixed-income", "bonds"]
   },
   {
     "id": "5",
-    "title": "Gold Slips to $4,285 as Yields Trump Safe-Haven Bid",
-    "content": "Gold eased to around $4,285 an ounce on Friday, extending a pullback that has seen the metal fall about 7% over the past month even as geopolitical tensions persist. Surging Treasury yields and a firmer dollar raised the opportunity cost of holding the non-yielding asset, offsetting safe-haven demand tied to the US-Iran conflict and leaving bullion well below the record above $5,000 struck in January.",
-    "summary": "Gold slipped to about $4,285 an ounce as rising yields and a stronger dollar outweighed safe-haven demand.",
-    "context": "• Gold surged past $5,000 an ounce in January 2026 before a sustained retreat later in the year.\n\n• Bullion typically struggles when real yields and the dollar rise, as the metal pays no income.\n\n• The US-Iran conflict has kept a floor of safe-haven interest under precious metals.",
-    "happened": "• Gold traded around $4,285 an ounce, down roughly 7% over the past month but still up about 14% year on year.\n\n• The decline persisted even as oil fell on Hormuz reopening hopes.\n\n• Higher Treasury yields and dollar strength were the dominant drivers of the move.",
-    "implications": "• Further yield increases could keep gold under pressure despite geopolitical risk.\n\n• A sharp escalation in the Middle East could quickly revive safe-haven flows.\n\n• The metal's behaviour is a useful gauge of whether rates or risk dominate market sentiment.",
-    "importance": "• Gold is a key barometer of real rates, inflation expectations and geopolitical stress.\n\n• Its slide despite conflict shows how powerfully the rates story is driving markets.\n\n• Precious-metal moves matter for miners, central-bank reserves and multi-asset portfolios.",
-    "date": "25 September 2026",
-    "tags": [
-      "commodities"
-    ]
+    "title": "Nasdaq Hits Record as Chips Lead Narrow Rally",
+    "content": "US stocks rose on Friday after the soft jobs report, with the Nasdaq Composite climbing 1.2% to 27,190.86 and touching an intraday record as chip and software names led the advance. The S&P 500 gained 0.7% to 7,722.72 and the Dow added about 250 points, or 0.5%, to 51,176.46, but the rally was narrow: for the week the Nasdaq rose 0.5% while the S&P slipped 0.3% and the Dow fell 1.3%.",
+    "summary": "The Nasdaq hit an intraday record and rose 1.2% on Friday as chips led a narrow rally, even as the Dow lagged for the week.",
+    "context": "• Megacap technology and AI-linked chipmakers have driven 2026's equity gains, concentrating market leadership.\n\n• Higher Treasury yields have pressured the broader market, leaving rallies increasingly reliant on a few names.\n\n• A soft jobs report revived hopes the Fed will pause, offering relief to rate-sensitive growth stocks.",
+    "happened": "• The Nasdaq Composite rose 1.2% (+319.27) to 27,190.86, hitting an intraday all-time high.\n\n• The S&P 500 added 0.7% to 7,722.72 and the Dow gained about 250 points to 51,176.46.\n\n• For the week the Nasdaq rose 0.5% while the S&P fell 0.3% and the Dow dropped 1.3%, with small caps lagging.",
+    "implications": "• Narrow leadership leaves indices vulnerable if AI and chip sentiment wobbles.\n\n• A dovish Fed path would broaden participation beyond megacap technology.\n\n• Any renewed spike in long-end yields is the clearest threat to richly valued growth names.",
+    "importance": "• Record highs sit atop a thin base, raising the stakes around a handful of leaders.\n\n• The split between the Nasdaq and the Dow signals investors chasing growth over cyclicals.\n\n• Market direction hinges on whether the rally broadens or stays concentrated.",
+    "date": "2 October 2026",
+    "tags": ["us-equities", "stocks"]
   },
   {
     "id": "6",
-    "title": "European Shares Snap Three-Week Losing Streak",
-    "content": "European equities edged higher on Friday, with the pan-European STOXX 600 rising about 0.5% on the week to end a three-week losing run as falling oil prices eased pressure on the region's energy-intensive companies. Germany's DAX closed at 25,408.64, up 0.56% on the day, the FTSE 100 added 0.14% to 10,695.25 and France's CAC 40 dipped 0.04% to 8,077.80, with London lagging a firmer Frankfurt.",
-    "summary": "The STOXX 600 rose about 0.5% for the week to break a three-week losing streak as easing oil lifted sentiment.",
-    "context": "• European markets had been rattled by a global bond rout and energy-driven inflation fears through September.\n\n• The retreat in crude relieved pressure on energy-intensive industrials and rate-sensitive growth names.\n\n• Long-term bond yields across the region remained elevated, capping the size of the rebound.",
-    "happened": "• The STOXX 600 gained roughly 0.5% for the week, snapping a three-week decline.\n\n• The DAX closed at 25,408.64 (+0.56%), the FTSE 100 at 10,695.25 (+0.14%) and the CAC 40 at 8,077.80 (-0.04%).\n\n• Frankfurt outperformed London, widening the gap between the two markets.",
-    "implications": "• Continued relief in energy and rates would support banks and cyclicals into quarter-end.\n\n• A renewed spike in oil or yields remains the clearest risk to the recovery.\n\n• The DAX's persistent outperformance keeps allocation questions in focus for Europe-weighted investors.",
-    "importance": "• European benchmarks have been among 2026's stronger performers, so their resilience matters for global allocators.\n\n• The bounce signals that dip-buying appetite endured the month's volatility.\n\n• Divergence between core and UK markets shapes relative-value positioning.",
-    "date": "25 September 2026",
-    "tags": [
-      "european-markets",
-      "stocks"
-    ]
+    "title": "European Stocks Rebound as Bond Rout Eases",
+    "content": "European equities bounced on Friday after two days of losses, with Germany's DAX jumping 1.21% and the pan-European STOXX 600 adding 0.75% as a pause in the global bond sell-off offered relief. The STOXX 50 rose 0.3%, Britain's FTSE 100 gained 0.3% to 10,459.95 and the euro-zone EU50 benchmark climbed 1.14% to 6,247, though the index remained down about 2% over the past month.",
+    "summary": "European shares rebounded on Friday, led by a 1.21% jump in the DAX, as a steadier bond market lifted sentiment.",
+    "context": "• European markets have outperformed earlier in 2026 on strong corporate earnings, leaving the EU50 up double digits year on year.\n\n• The global bond sell-off had weighed on rate-sensitive sectors across the region.\n\n• Elevated energy prices tied to Middle East conflict remain a headwind for European growth.",
+    "happened": "• The DAX rose 1.21% (+301.79) to 25,241.14 and the STOXX 600 added 0.75% to 631.34.\n\n• The FTSE 100 gained 0.3% to 10,459.95 and the STOXX 50 rose 0.3%.\n\n• The euro-zone EU50 climbed 1.14% to 6,247, trimming a monthly decline of about 2%.",
+    "implications": "• A calmer bond market is the key near-term support for European equities.\n\n• Renewed yield pressure or higher oil would quickly test the rebound.\n\n• Resilient earnings could keep drawing global investors toward relatively cheaper European names.",
+    "importance": "• Europe offers a valuation and diversification alternative to US megacap concentration.\n\n• The rebound shows how tightly regional equities are now tracking the global rates story.\n\n• The FTSE 100's grind near record territory reflects commodity and defensive exposure.",
+    "date": "2 October 2026",
+    "tags": ["european-markets", "stocks"]
   },
   {
     "id": "7",
-    "title": "Nikkei Extends Winning Run as JGB Yields Hit 1996 High",
-    "content": "Japanese stocks rallied for a fifth straight session on Friday, with the Nikkei 225 climbing 1.30%, or 850.21 points, to 66,364.20 and the broader TOPIX rising 1.31% to 4,128.59, buoyed by a weaker yen. The advance came even as Japan's 10-year government bond yield briefly touched 3.115%, its highest since 1996, while mainland China, South Korea and Taiwan were shut for the Mid-Autumn holiday and Hong Kong's Hang Seng fell about 1%.",
-    "summary": "The Nikkei rose for a fifth day as a soft yen offset a jump in JGB yields to a near three-decade high, with much of Asia closed for holidays.",
-    "context": "• The Bank of Japan raised its policy rate to a 31-year-high 1.25% last week as it continues to normalise ultra-loose policy.\n\n• A weaker yen flatters the earnings of Japan's large exporter base, supporting the Nikkei.\n\n• Rising global yields have dragged Japanese government bond yields to levels unseen in decades.",
-    "happened": "• The Nikkei 225 gained 1.30% to 66,364.20 and the TOPIX rose 1.31% to 4,128.59, a fifth consecutive advance.\n\n• Japan's 10-year JGB yield briefly hit 3.115%, its highest since 1996.\n\n• Mainland China, South Korea and Taiwan were closed for the Mid-Autumn holiday, while the Hang Seng fell about 1% to 24,510.09.",
-    "implications": "• Further yen weakness would keep supporting exporters but sharpen imported-inflation pressures.\n\n• Rising JGB yields could eventually lure Japanese capital home from overseas bond markets.\n\n• Thin holiday liquidity across the region can exaggerate individual market moves.",
-    "importance": "• Japan's rate and currency path is a key driver of global funding conditions and the carry trade.\n\n• A near-30-year high in JGB yields signals a profound shift in the world's former anchor of cheap money.\n\n• Asian benchmarks set the tone for global risk appetite at the start of each trading day.",
-    "date": "25 September 2026",
-    "tags": [
-      "asian-markets",
-      "stocks"
-    ]
+    "title": "Hang Seng Slides as Asian Tech Stays Pressured",
+    "content": "Asian equities were mixed to weaker on Friday, with Hong Kong's Hang Seng falling 2.6% to 23,972 as technology stocks stayed under pressure from higher global yields and US curbs on advanced AI hardware. Japan's Nikkei 225 eased 0.94% to 68,309 but remained up more than 6% on the month and close to records, leaving a wide divergence between buoyant Japanese shares and a sliding Hong Kong market.",
+    "summary": "Hong Kong's Hang Seng fell 2.6% as tech stayed pressured, while Japan's Nikkei dipped but held near records.",
+    "context": "• Chinese and Hong Kong tech names have faced US restrictions on advanced AI hardware and soft sentiment.\n\n• Japanese equities have surged in 2026, up nearly 50% year on year, aided by a weak yen.\n\n• Rising global yields and geopolitical tension have weighed broadly on Asian risk appetite.",
+    "happened": "• The Hang Seng fell 2.6% to 23,972, down about 5% over the past month.\n\n• The Nikkei 225 slipped 0.94% to 68,309 but held a monthly gain above 6%.\n\n• Technology shares led declines amid higher yields and AI-hardware export curbs.",
+    "implications": "• Continued US export curbs keep a cloud over Chinese and Hong Kong technology valuations.\n\n• A weaker yen keeps flattering Japanese exporter earnings but raises intervention risk.\n\n• Divergence within Asia complicates broad regional allocation calls.",
+    "importance": "• Asia's split performance is a live test of the AI-hardware trade's geographic winners.\n\n• Hong Kong weakness signals fragile confidence in China's growth and policy support.\n\n• Japan's resilience ties directly to the yen and the global rates backdrop.",
+    "date": "2 October 2026",
+    "tags": ["asian-markets", "stocks"]
   },
   {
     "id": "8",
-    "title": "Bitcoin Retreats From Highs as Rate Fears Bite",
-    "content": "Cryptocurrencies lost ground on Thursday, with Bitcoin falling to around $83,500 and Ether slipping to roughly $2,650, as mounting expectations of further Federal Reserve rate hikes sapped risk appetite. The pullback came just days after Bitcoin had touched near eight-month highs, with traders now assigning a strong probability to an October hike and a meaningful chance of another before year-end.",
-    "summary": "Bitcoin fell to about $83,500 and Ether to roughly $2,650 as rising rate-hike expectations knocked digital assets back from recent highs.",
-    "context": "• Crypto rallied earlier in September, with Bitcoin approaching eight-month highs before the latest wobble.\n\n• Digital assets have traded increasingly in step with rate-sensitive risk assets rather than as a hedge.\n\n• Higher-for-longer rate expectations lift the opportunity cost of holding non-yielding tokens.",
-    "happened": "• Bitcoin fell around 2% to roughly $83,500, having opened Thursday near $84,370.\n\n• Ether dropped about 2.5% to around $2,650.\n\n• CME FedWatch pricing showed roughly a 75% chance of an October hike and about a 59% chance of a further move in December.",
-    "implications": "• Continued Fed hawkishness could cap the crypto recovery in the near term.\n\n• Any dovish surprise or renewed disinflation would quickly revive risk appetite for digital assets.\n\n• Tight correlation with equities leaves crypto exposed to the same rates-driven volatility.",
-    "importance": "• Bitcoin has become a high-beta gauge of global liquidity and risk sentiment.\n\n• The retreat underscores how sensitive speculative assets are to the rate outlook.\n\n• Crypto's swings increasingly ripple into equity and macro positioning.",
-    "date": "24 September 2026",
-    "tags": [
-      "crypto"
-    ]
+    "title": "Yen Slips Past 158 After BoJ Underwhelms",
+    "content": "The yen weakened beyond 158 per dollar before settling around 157.8 after the Bank of Japan's September summary of opinions fell short of investor hopes for stronger hawkish signals. The move reflects a widening policy gap with a still-restrictive Federal Reserve, and an unwind of yen-funded carry trades has been cited as one driver of the broader global bond sell-off.",
+    "summary": "The yen slipped past 158 per dollar before steadying near 157.8 after the BoJ's September minutes disappointed hawks.",
+    "context": "• The BoJ has been cautiously normalising policy while signalling concern about inflation overshooting its target.\n\n• A wide US-Japan rate differential has kept the yen under persistent pressure through 2026.\n\n• Yen-funded carry trades have amplified moves across global bond and FX markets.",
+    "happened": "• USD/JPY touched beyond 158 before easing to about 157.83, down 0.15% on the day.\n\n• The BoJ's September summary of opinions lacked the hawkish tilt some investors expected.\n\n• EUR/JPY traded around 176.99 as the cross stayed elevated.",
+    "implications": "• Further yen weakness raises the risk of official intervention or firmer BoJ rhetoric.\n\n• A disorderly carry-trade unwind could spill back into global bonds and equities.\n\n• The currency's path hinges on the gap between Fed and BoJ policy expectations.",
+    "importance": "• USD/JPY is a key barometer of global rate differentials and risk appetite.\n\n• Carry-trade dynamics link the yen directly to the worldwide bond rout.\n\n• A weak yen supports Japanese exporters but imports inflation into Japan.",
+    "date": "2 October 2026",
+    "tags": ["forex"]
   },
   {
     "id": "9",
-    "title": "Akamai Soars on $11.6bn Anthropic Cloud Deal",
-    "content": "Shares in Akamai Technologies surged after the company unveiled an $11.6bn, seven-year cloud computing agreement with AI developer Anthropic, sending the stock up as much as 20% in after-hours trading before paring gains. The deal, which the company said could grow to around $20bn, includes a warrant giving Anthropic the right to acquire up to about 5% of Akamai through nonvoting convertible preferred stock at an exercise price of $111.33.",
-    "summary": "Akamai shares jumped after it announced an $11.6bn, seven-year cloud deal with Anthropic that could expand to around $20bn.",
-    "context": "• Demand for AI compute has driven a wave of large, multi-year infrastructure contracts across the technology sector.\n\n• Akamai has been repositioning its content-delivery network towards distributed cloud and AI workloads.\n\n• Investors have rewarded companies able to secure long-dated, high-value AI revenue commitments.",
-    "happened": "• Akamai announced $11.6bn of contractual commitments from Anthropic over an initial seven-year term.\n\n• Shares rose as much as 20% after hours, briefly touching $128.46 before easing back.\n\n• The agreement includes a warrant convertible into up to roughly 5% of Akamai's stock at $111.33, vesting as Anthropic's spending grows.",
-    "implications": "• The contract gives Akamai a large, visible revenue stream and validates its AI-infrastructure pivot.\n\n• The equity warrant aligns Anthropic with Akamai's performance but could dilute existing holders over time.\n\n• Further hyperscaler and AI-lab deals could re-rate second-tier cloud providers.",
-    "importance": "• The deal is a fresh datapoint on the scale of AI infrastructure spending reshaping the tech sector.\n\n• Long-dated commitments of this size can transform the earnings profile of mid-cap names.\n\n• It highlights how AI demand is spreading beyond the megacap chipmakers to networking and cloud players.",
-    "date": "24 September 2026",
-    "tags": [
-      "us-equities",
-      "stocks"
-    ]
+    "title": "Bitcoin Holds Near $85K Before Fed Decision",
+    "content": "Bitcoin held near $85,000 on Friday, opening around $84,850 and rising about 1.6% as crypto prices firmed ahead of the September jobs report. The token has gained roughly 44% over the past three months, but slowing spot-ETF inflows, elevated oil prices and uncertainty over the Federal Reserve's late-October meeting threaten to cap the rally as traders weigh the higher-yield backdrop.",
+    "summary": "Bitcoin held near $85,000, up about 1.6% on the day, with the Fed's late-October decision looming as the key risk.",
+    "context": "• Bitcoin has rallied around 44% over three months, supported by spot-ETF demand.\n\n• US spot bitcoin ETFs drew roughly $2.5bn of net inflows in the three weeks through 29 September, per Bitfinex.\n\n• Rising Treasury yields and firm oil have tightened financial conditions for risk assets.",
+    "happened": "• Bitcoin opened around $84,850 on Friday, up about 1.6%, trading near $85,000.\n\n• ETF inflows have shown signs of slowing even after a strong three-week stretch.\n\n• Developers eye Bitcoin Core 32.0's release on 10 October and Ethereum's Glamsterdam testnet on 6 October.",
+    "implications": "• A hawkish Fed surprise in late October could unwind part of the summer rally.\n\n• Sustained ETF inflows remain the key swing factor for near-term support.\n\n• Higher yields and firm oil keep macro headwinds in play for digital assets.",
+    "importance": "• Bitcoin increasingly trades as a macro risk asset sensitive to the rates path.\n\n• ETF flows have become a primary driver of marginal demand.\n\n• The Fed's decision is a shared catalyst for crypto and traditional risk markets.",
+    "date": "2 October 2026",
+    "tags": ["crypto"]
   },
   {
     "id": "10",
-    "title": "Costco Tops Estimates on E-Commerce Surge",
-    "content": "Costco Wholesale beat Wall Street expectations for its fiscal fourth quarter, reporting after the close on Thursday revenue of $95.7bn and diluted earnings of $6.75 a share, against consensus of about $94.85bn and $6.55. Net sales rose 11.2% to $93.9bn and comparable sales climbed 9.4%, powered by a 19.5% jump in digitally enabled sales, though results were flattered by a $0.15-a-share benefit from tariff refunds.",
-    "summary": "Costco beat fiscal Q4 estimates with $95.7bn revenue and $6.75 EPS, helped by strong comparable and e-commerce sales.",
-    "context": "• Costco's membership model has proved resilient as consumers seek value amid sticky inflation.\n\n• Retailers have been navigating shifting tariff policy, which has affected costs and refunds.\n\n• The warehouse club has leaned into e-commerce to complement its store base.",
-    "happened": "• Revenue reached $95.7bn and diluted EPS was $6.75, up from $5.87 a year earlier, both beating consensus.\n\n• Net sales rose 11.2% to $93.9bn, with comparable sales up 9.4% and digitally enabled sales up 19.5%.\n\n• Results included a non-recurring $0.15-a-share benefit from tariff refunds; full-year net sales hit $297.2bn.",
-    "implications": "• Robust comps suggest consumer spending on essentials remains healthy despite high rates.\n\n• Strong e-commerce growth points to a widening digital moat against discount rivals.\n\n• The tariff-refund benefit means underlying earnings growth is slightly softer than the headline.",
-    "importance": "• Costco is a bellwether for US consumer resilience heading into the key holiday season.\n\n• Its results feed directly into the debate over how much the Fed still needs to tighten.\n\n• Consistent execution keeps the retailer a core holding across large-cap and consumer funds.",
-    "date": "24 September 2026",
-    "tags": [
-      "us-equities",
-      "stocks"
-    ]
+    "title": "Micron's $54bn Quarter Supercharges AI Memory",
+    "content": "Micron delivered a blowout fiscal fourth quarter, reporting revenue of $54.23bn — up 379% from a year earlier — as demand for AI-linked memory drove records in revenue, margin and earnings. Adjusted earnings of $33.42 a share beat the $31.61 expected, data-centre revenue jumped eleven-fold and management said favourable memory-market dynamics should persist for the next couple of years, reinforcing the AI-hardware trade leading equity indices.",
+    "summary": "Micron reported $54.23bn in quarterly revenue, up 379%, as AI memory demand drove records and strong guidance.",
+    "context": "• An AI-driven supply crunch has sent prices for high-bandwidth memory (HBM) sharply higher.\n\n• Micron shares have soared more than 500% over the past year on the memory boom.\n\n• Memory is a bottlenecked part of the data-centre supply chain feeding AI workloads.",
+    "happened": "• Micron posted Q4 revenue of $54.23bn, up 379% year on year, versus $51.07bn expected.\n\n• Adjusted EPS came in at $33.42 against the $31.61 consensus, with full-year revenue of $133.19bn, up 256%.\n\n• Data-centre revenue jumped eleven-fold and HBM grew faster than overall sales.",
+    "implications": "• Durable memory pricing underpins earnings for the broader AI-hardware complex.\n\n• Guidance for continued strength supports elevated chip-sector valuations.\n\n• A demand or pricing wobble would hit the narrow leadership driving indices.",
+    "importance": "• Micron is a bellwether for the AI memory cycle powering the Nasdaq's records.\n\n• The results validate the capital-spending surge across AI data centres.\n\n• Chip earnings remain the single biggest swing factor for US equity leadership.",
+    "date": "30 September 2026",
+    "tags": ["us-equities", "stocks"]
   }
 ]
